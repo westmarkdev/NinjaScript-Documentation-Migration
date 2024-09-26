@@ -107,7 +107,9 @@ def fix_markdown(input_dir, output_dir):
         
         # Extract title and create path
         title = extract_title(content)
-        path = os.path.splitext(filename)[0]
+        # FIXME: We need to convert to just the filename without the path or extension
+        # path = os.path.splitext(filename)[0]
+        path = filename.stem
         
         # Remove the title from the content as it's now in the frontmatter
         content = re.sub(re.escape(title), '', content, count=1).strip()
