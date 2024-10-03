@@ -110,12 +110,12 @@ def fix_relative_links(content):
     # Convert .htm links to .md to ensure compatibility with markdown processors
     # This is necessary because the original documentation uses .htm extensions,
     # which need to be converted to .md for proper linking in markdown files.
-    content = re.sub(r'\[([^\]]+)\]\(([^)]+)\.htm\)', r'[\1](\2.md)', content)
+    content = re.sub(r'\[([^\]]+)\]\(([^)]+)\.htm\)', r'[\1](\2)', content)
     
     # Adjust relative links to maintain correct paths after migration
     # This ensures that links pointing to parent directories are correctly formatted
     # to reflect the new markdown structure.
-    content = re.sub(r'\[([^\]]+)\]\(\.\./([^)]+)\)', r'[\1](../\2.md)', content)
+    content = re.sub(r'\[([^\]]+)\]\(\.\./([^)]+)\)', r'[\1](../\2)', content)
     
     return content
 
@@ -228,66 +228,50 @@ def fix_syntax_section(content):
     content = re.sub(syntax_pattern, replace_syntax, content, flags=re.DOTALL)
     return content
 
-def fix_markdown(input_dir, output_dir):
-    input_path = Path(input_dir).resolve()
-    output_path = Path(output_dir).resolve()
+def fix_markdown(input_file, output_dir):
+    with open(input_file, 'r', encoding='utf-8-sig') as file:
+        content = file.read()
     
-    # Ensure input and output directories exist to avoid file not found errors
-    input_path.mkdir(parents=True, exist_ok=True)
-    output_path.mkdir(parents=True, exist_ok=True)
+    # Clean content
+    content = clean_content(content)
     
-    for filename in input_path.glob('*.md'):
-        with open(filename, 'r', encoding='utf-8-sig') as file:
-            content = file.read()
-        
-        # Clean content to remove unwanted elements and ensure proper formatting
-        content = clean_content(content)
-        
-        # Extract title for frontmatter and create a path for the file
-        title = extract_title(content)
-        path = filename.stem
-        
-        # Remove the title from the content to avoid duplication since it's in the frontmatter
-        content = re.sub(re.escape(title.strip('"')), '', content, count=1).strip()
-        
-        # Standardize heading styles for consistency across documents
-        content = re.sub(r'^(.+)\n-+\n', r'## \1\n\n', content, flags=re.MULTILINE)
+    # Extract title for frontmatter
+    title = extract_title(content)
+    path = Path(input_file).stem
+    
+    # Remove the title from the content to avoid duplication
+    content = re.sub(re.escape(title.strip('"')), '', content, count=1).strip()
+    
+    # Standardize heading styles
+    content = re.sub(r'^(.+)\n-+\n', r'## \1\n\n', content, flags=re.MULTILINE)
 
-        # Add frontmatter to the content for metadata inclusion
-        frontmatter = add_frontmatter(title, path)
-        content = f"---\n{frontmatter}---\n\n{content}"
-        
-        # Ensure code blocks are properly formatted for syntax highlighting
-        content = fix_code_blocks(content)
-        
-        # Convert tables to callouts for better readability and emphasis
-        content = convert_tables_to_callouts(content)
-        
-        # Adjust relative links to maintain correct paths after migration
-        content = fix_relative_links(content)
-        
-        # Clean trailing spaces and reduce multiple consecutive blank lines for tidy formatting
-        content = clean_trailing_spaces_and_blank_lines(content)
-        
-        # Ensure the syntax section is clearly identified and properly formatted
-        content = fix_syntax_section(content)
-        
-        # Write the cleaned and formatted content to the output directory
-        output_file = output_path / filename.name
-        with open(output_file, 'w', encoding='utf-8') as file:
-            file.write(content)
+    # Add frontmatter
+    frontmatter = add_frontmatter(title, path)
+    content = f"---\n{frontmatter}---\n\n{content}"
+    
+    # Apply fixes
+    content = fix_code_blocks(content)
+    content = convert_tables_to_callouts(content)
+    content = fix_relative_links(content)
+    content = clean_trailing_spaces_and_blank_lines(content)
+    content = fix_syntax_section(content)
+    
+    # Write the cleaned and formatted content to the output directory
+    output_file = os.path.join(output_dir, os.path.basename(input_file))
+    with open(output_file, 'w', encoding='utf-8') as file:
+        file.write(content)
 
-    print(f"Markdown fixing complete. Check {output_path} for updated files.")
+    print(f"Markdown fixing complete for {os.path.basename(input_file)}.")
 
-# Create output directory with timestamp to ensure each run has a unique output folder.
-# This helps in keeping track of different runs and their results without overwriting previous outputs.
-script_dir = Path(__file__).parent.resolve()
-folder_name = f'output/fixed-{datetime.now().strftime("%Y-%m-%d--%H-%M")}'
-output_dir = script_dir / folder_name
-output_dir.mkdir(parents=True, exist_ok=True)
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) != 2:
+        print("Usage: python markdown_fixer_script.py <input_file>")
+        sys.exit(1)
 
-# Define the input directory relative to the script's location for consistency and ease of use.
-input_dir = script_dir / 'input'
+    input_file = sys.argv[1]
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(script_dir, 'output', 'fixed-latest')
+    os.makedirs(output_dir, exist_ok=True)
 
-# Process the markdown files from the input directory and save the fixed versions to the output directory.
-fix_markdown(input_dir, output_dir)
+    fix_markdown(input_file, output_dir)
