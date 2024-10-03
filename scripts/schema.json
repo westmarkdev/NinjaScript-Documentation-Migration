@@ -1,0 +1,43 @@
+{
+  "name": "sdkDoc",
+  "title": "SDK Document",
+  "type": "document",
+  "fields": [
+    {
+      "name": "title",
+      "type": "string",
+      "title": "Title",
+      "description": "The main H1 heading of the document."
+    },
+    {
+      "name": "pathName",
+      "type": "string",
+      "title": "Path Name",
+      "description": "The URL path segment for the document."
+    },
+    {
+      "name": "markdown",
+      "type": "markdown",
+      "title": "Markdown",
+      "description": "The markdown content of the document, including sections, code samples, and callouts."
+    },
+    {
+      "name": "sdkDocs",
+      "type": "array",
+      "title": "SDK Documents",
+      "description": "References to related SDK documents.",
+      "of": [
+        {
+          "type": "reference",
+          "to": [{ "type": "sdkDoc" }]
+        }
+      ]
+    }
+  ],
+  "preview": {
+    "select": {
+      "title": "title",
+      "subtitle": "pathName"
+    }
+  }
+}
