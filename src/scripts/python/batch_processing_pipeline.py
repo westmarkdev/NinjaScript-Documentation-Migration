@@ -1,4 +1,5 @@
 import json
+import sys
 import os
 import pickle
 import subprocess
@@ -9,7 +10,7 @@ from openai import OpenAI
 BATCH_SIZE = 2
 MODEL = "gpt-4o-mini"
 
-# project-root/
+# src/
 # ├── scripts/
 # │   ├── python/
 # │   │   ├── batch_processing_pipeline.py
@@ -31,12 +32,11 @@ MODEL = "gpt-4o-mini"
 # │   ├── schema.json
 # ├── example_doc.md
 
-# project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-python_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-project_root = os.path.dirname(python_root)
-input_dir = os.path.join(project_root, 'input', 'raw')
-intermediate_dir = os.path.join(project_root, 'output', 'fixed')
-final_output_dir = os.path.join(project_root, 'output', 'final')
+
+project_root = "src"
+input_dir = os.path.join(project_root, 'input', 'raw') # these are the files that are raw and need to be processed
+intermediate_dir = os.path.join(project_root, 'output', 'fixed') # these are the files that are fixed by the markdown_fixer_script.py
+final_output_dir = os.path.join(project_root, 'output', 'final') # these are the files that are the final output and are used for the website.
 
 os.makedirs(intermediate_dir, exist_ok=True)
 os.makedirs(final_output_dir, exist_ok=True)
@@ -71,13 +71,12 @@ def process_files_with_checkpointing():
             processed_files = pickle.load(f)
         print(f"Resuming from checkpoint. {len(processed_files)} files already processed.")
 
-    files = get_file_sizes(input_dir)
+    files = [f for f in os.listdir(input_dir) if f.endswith('.md')]
     
-    for file, size in tqdm(files, desc="Processing files"):
+    for file in tqdm(files, desc="Processing files"):
         if file in processed_files:
             continue
         
-        batch_size = adaptive_batch_size(size)
         process_file(file, schema, example_doc)
         
         processed_files.add(file)
@@ -89,28 +88,24 @@ def process_files_with_checkpointing():
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-def get_file_sizes(directory):
-    file_sizes = []
-    for filename in os.listdir(directory):
-        if filename.endswith('.md'):
-            file_path = os.path.join(directory, filename)
-            file_sizes.append((filename, os.path.getsize(file_path)))
-    return sorted(file_sizes, key=lambda x: x[1])
-
 def process_file(file_name, schema, example_doc):
     input_file_path = os.path.join(input_dir, file_name)
     intermediate_file_path = os.path.join(intermediate_dir, file_name)
     final_file_path = os.path.join(final_output_dir, file_name)
 
-    os.makedirs(intermediate_dir, exist_ok=True)
-    os.makedirs(final_output_dir, exist_ok=True)
+    os.makedirs(os.path.dirname(intermediate_file_path), exist_ok=True)
+    os.makedirs(os.path.dirname(final_file_path), exist_ok=True)
 
     markdown_fixer_script_path = os.path.join(project_root, 'scripts', 'python', 'markdown_fixer_script.py')
-    subprocess.run(['python', markdown_fixer_script_path, input_file_path])
+    result = subprocess.run(['python', markdown_fixer_script_path, input_file_path, intermediate_file_path], capture_output=True, text=True)
+    
+    if result.returncode != 0:
+        print(f"Error processing {file_name}: {result.stderr}")
+        return
     
     if not os.path.exists(intermediate_file_path):
         print(f"markdown_fixer_script.py did not create the expected output file: {intermediate_file_path}")
-        return
+        sys.exit()
     
     with open(intermediate_file_path, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -138,16 +133,6 @@ def process_batch(batch, schema, example_doc):
         futures = [executor.submit(process_file, file_name, schema, example_doc) for file_name in batch]
         for future in as_completed(futures):
             future.result()
-
-def main():
-    files = get_file_sizes(input_dir)
-    
-    batch_size = BATCH_SIZE
-    total_batches = (len(files) + batch_size - 1) // batch_size
-    
-    for i in tqdm(range(0, len(files), batch_size), total=total_batches, desc="Processing batches"):
-        batch = [file[0] for file in files[i:i+batch_size]]
-        process_batch(batch, schema, example_doc)
 
 if __name__ == "__main__":
     process_files_with_checkpointing()
