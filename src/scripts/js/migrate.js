@@ -20,7 +20,7 @@ const client = sanityClient({
   useCdn: false,
 });
 
-const INPUT_DIR = '../output/linted'; // Directory containing linted Markdown files
+const INPUT_DIR = '../done/'; // Directory containing linted Markdown files
 
 /**
  * Asynchronously imports Markdown files from a specified directory, extracts their content,
