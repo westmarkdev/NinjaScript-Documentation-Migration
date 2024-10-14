@@ -1,34 +1,55 @@
 # NinjaScript Documentation Migration
 
-This repository contains the tools and processes for migrating NinjaScript documentation to a new format. It includes the original source files, a Python script for cleaning and reformatting the documentation, and the results of the migration process.
+## Project Overview
+
+This project aims to migrate and enhance NinjaScript product documentation from NinjaTrader's traditional knowledge base to a modern content management system using Sanity.io and Markdoc. The goal is to improve accessibility, consistency, and integration of NinjaScript documentation.
+
+## Key Features
+
+- Migration of ~2000 Markdown files to Sanity CMS
+- Automated content cleaning and formatting
+- Custom schema for structured content in Sanity
+- Batch processing pipeline for efficient migration
+- Quality assurance through automated linting and manual review
 
 ## Repository Structure
 
-- `source_files/`: Contains all original documentation files (2500+ files)
-- `staged_files/`: A subset of files used for testing the migration process
-- `input/`: Copy of staged files used as input for the migration script
-- `scripts/`: Contains the Python script used for migration
-- `output/`: Contains the migrated and formatted documentation files
+- `src/`: Source code and scripts
+  - `input/`: Raw and linted input files
+  - `output/`: Processed and final output files
+  - `scripts/`: Python and JavaScript processing scripts
+  - `sanity/`: Sanity CMS configuration and schemas
+- `docs/`: Project documentation
 
-## Branches
+## Getting Started
 
-- `main`: Contains the full set of source files and the final migration results
-- `testing`: Used for testing the migration process with a subset of files
+### Prerequisites
 
-## Usage
+- Node.js and npm
+- Python 3.x
+- Sanity CLI
 
-To run the migration script:
+### Quick Start
 
-1. Ensure you have Python 3.x installed
-2. Install required libraries: `pip install mdformat pyyaml`
-3. Run the script: `python scripts/markdown_fixer.py`
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Set up Sanity project: `sanity init`
+4. Run the migration pipeline: `python src/scripts/python/batch_processing_pipeline.py`
 
-The script will process files from the `scripts/input/` directory and output the results to a timestamped folder in the `scripts/output/` directory.
+For detailed setup and usage instructions, see `docs/setup.md`.
 
 ## Contributing
 
-If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.  
+Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
 
 ## Contact
 
-For any questions or concerns, please open an issue in this repository or contact <matthew@westmark.dev>
+- Project Manager: [@Brett]
+- Lead Developer: [@Micheal]
+- Consultant: [@Matthew]
+
+## Additional Resources
+
+- [Project Documentation](docs/plan.md)
+- [Sanity Documentation](https://www.sanity.io/docs)
+- [Markdoc Documentation](https://markdoc.dev/)
