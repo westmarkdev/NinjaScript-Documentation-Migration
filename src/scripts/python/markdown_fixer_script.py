@@ -3,6 +3,7 @@ import re
 import yaml
 import html
 from pathlib import Path
+import sys
 
 # Configuration
 LINT_CONFIG_PATH = '.markdownlint.json'
@@ -184,7 +185,7 @@ def extract_image_references(content):
     image_pattern = r'!\[.*?\]\((.*?)\)'
     return re.findall(image_pattern, content)
 
-def process_markdown_file(input_file, output_dir, image_log):
+def process_markdown(input_file, output_file):
     """Processes a single Markdown file."""
     with open(input_file, 'r', encoding='utf-8-sig') as file:
         content = file.read()
@@ -205,11 +206,13 @@ def process_markdown_file(input_file, output_dir, image_log):
     # Check for images
     images = extract_image_references(content)
     if images:
-        image_log.write(f"{input_file}: {', '.join(images)}\n")
+        with open("files_with_images.txt", "a") as f:
+            f.write(f"{input_file}\n")
     
-    output_file = os.path.join(output_dir, os.path.basename(input_file))
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(content)
+
+    return images
 
 def process_markdown_directory(input_dir, output_dir):
     """Processes all Markdown files in a directory."""
@@ -220,8 +223,18 @@ def process_markdown_directory(input_dir, output_dir):
     
     print(f"Processing complete. Check {IMAGE_LOG_FILE} for a list of files containing images.")
 
+def main():
+    if len(sys.argv) != 3:
+        print("Usage: python markdown_fixer_script.py <input_file> <output_file>")
+        sys.exit(1)
+    
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
+    images_found = process_markdown(input_file, output_file)
+
+    if images_found:
+        with open("files_with_images.txt", "a") as f:
+            f.write(f"{input_file}\n")
+
 if __name__ == "__main__":
-    input_directory = '../input/raw'
-    output_directory = '../output/fixed'
-    os.makedirs(output_directory, exist_ok=True)
-    process_markdown_directory(input_directory, output_directory)
+    main()
