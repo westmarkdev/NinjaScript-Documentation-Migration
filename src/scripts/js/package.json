@@ -1,0 +1,22 @@
+{
+  "name": "markdown-migration",
+  "version": "1.0.0",
+  "description": "A script to convert markdown files to HTML and then to Portable Text for Sanity.",
+  "main": "migrate.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node migrate.js"
+  },
+  "dependencies": {
+    "globby": "^11.0.4",
+    "marked": "^14.1.2",
+    "remark-extract-frontmatter": "^3.2.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-html": "^16.0.1",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.5",
+    "yaml": "^1.10.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
