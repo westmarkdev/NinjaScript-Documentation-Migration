@@ -13,9 +13,9 @@ NinjaScript is a C# based language that allows unlimited extensibility to NinjaT
 
 {% callout type="note" %}
 Related Topics:
+
 - [Distribution](/docs/desktop/distribution)
 - [Editor](/docs/desktop/editor)
 - [Educational Resources](/docs/desktop/educational_resources)
 - [Language Reference](/docs/desktop/language_reference_wip)
 {% /callout %}
-

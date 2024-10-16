@@ -42,4 +42,3 @@ else if (State == State.Configure)
 double value = McClellanOscillator(19, 39)[0];
 Print("The current McClellan Oscillator value is " + value.ToString());
 ```
-

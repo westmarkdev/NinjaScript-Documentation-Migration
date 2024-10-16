@@ -20,4 +20,3 @@ The system SuperDOM Columns which ship with NinjaTrader are open source and you 
 | [OnPropertyChanged()](/docs/desktop/onpropertychanged) | This method should be used any time you wish to repaint the column instead of calling [OnRender()](/docs/desktop/superdomcolumn_onrender) directly. |
 | [OnRender()](/docs/desktop/superdomcolumn_onrender) | Used to draw custom content to the SuperDOM Column, such as a Grid. |
 | [OnRestoreValues()](/docs/desktop/onrestorevalues) | Called when the column is restored (e.g. from a workspace). |
-

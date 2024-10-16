@@ -30,4 +30,3 @@ This is a real-time only strategy. Please view this strategy on a real-time data
 3. Select the downloaded file
 
 [SampleRemoveDrawObjects_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleRemoveDrawObjects_NT8.zip)
-

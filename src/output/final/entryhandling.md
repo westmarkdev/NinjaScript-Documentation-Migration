@@ -50,7 +50,7 @@ protected override void OnBarUpdate()
 }
 ```
 
-## EnterLong() will be processed once for each uniquely named entry.
+## EnterLong() will be processed once for each uniquely named entry
 
 ```csharp
 // Example #2
@@ -71,4 +71,3 @@ protected override void OnBarUpdate()
         EnterLong("RSI Cross Entry");
 }
 ```
-

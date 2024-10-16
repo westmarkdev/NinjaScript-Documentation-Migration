@@ -85,4 +85,3 @@ protected override void OnMarketData(MarketDataEventArgs marketDataUpdate)
     }
 }
 ```
-

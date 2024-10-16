@@ -21,4 +21,3 @@ Custom Chart Styles can be used on charts to present bars information in a diffe
 | [TransformBrush()](/docs/desktop/transformbrush) | Scales a non-solid color brush used for rendering the chart style to properly display in NinjaTrader |
 | [UpBrush](/docs/desktop/upbrush) | A [Brush](https://msdn.microsoft.com/en-us/library/system.windows.media.brush(v=vs.110).aspx) object used to determine the color to paint the up bars for the ChartStyle |
 | [UpBrushDX](/docs/desktop/upbrushdx) | A [SharpDX.Brush](/docs/desktop/sharpdx_direct2d1_brush) object used to paint the up bars for the ChartStyle |
-

@@ -26,4 +26,3 @@ Normally calculated values are carried over between trading sessions, but someti
 {% callout type="note" %}
 For additional information, you can view the sample file here: [Sample Trade Limiter](https://helpguides.ninjatrader.com/nt8/samples/sampletradelimiter_nt8.zip).
 {% /callout %}
-

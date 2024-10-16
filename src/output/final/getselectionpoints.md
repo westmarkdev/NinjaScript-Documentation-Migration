@@ -40,4 +40,3 @@ public override Point[] GetSelectionPoints(ChartControl chartControl, ChartScale
     return new[] { anchorPoint };
 }
 ```
-

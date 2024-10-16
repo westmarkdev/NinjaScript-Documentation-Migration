@@ -17,4 +17,3 @@ Once custom performance metrics are created, be sure to enable their usage in [T
 | [OnMergePerformanceMetric()](/docs/desktop/onmergeperformancemetric) | This method is called when the Performance Metric would be aggregated and merged together. |
 | [PerformanceUnit](/docs/desktop/performanceunit) | Enumeration defining each type of PerformanceUnit calculated by NinjaTrader. Used to store a value for this performance type in PerformanceMetrics. |
 | [Values](/docs/desktop/performancemetric_values) | The Values array holds five values corresponding to each Cbi.PerformanceUnit. |
-

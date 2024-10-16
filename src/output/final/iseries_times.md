@@ -38,4 +38,3 @@ protected override void OnBarUpdate()
         Print("The current bar's time is greater");
 }
 ```
-

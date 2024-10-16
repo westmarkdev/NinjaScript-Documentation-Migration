@@ -53,4 +53,3 @@ protected override void OnBarUpdate()
         EnterShortStopLimit(Low[0] - 2 * TickSize, Low[0], "SMA Cross Entry");
 }
 ```
-

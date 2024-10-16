@@ -52,4 +52,3 @@ protected override void OnBarUpdate()
         EnterLongStopMarket(GetCurrentAsk() + TickSize, "SMA Cross Entry");
 }
 ```
-

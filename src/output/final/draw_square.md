@@ -47,4 +47,3 @@ The size of the square is tied to the chart's BarWidth and thus will scale autom
 // Paints a red square on the current bar 1 tick below the low
 Draw.Square(this, "tag1", true, 0, Low[0] - TickSize, Brushes.Red);
 ```
-

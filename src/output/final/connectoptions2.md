@@ -33,4 +33,3 @@ GetValueAt(int input)
 // Example usage of GetValueAt
 bool result = GetValueAt(1);
 ```
-

@@ -48,4 +48,3 @@ protected override void OnBarUpdate()
     Print(mySessionIterator.GetTradingDay(DateTime.Now).ToString());
 }
 ```
-

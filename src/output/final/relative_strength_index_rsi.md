@@ -5,7 +5,7 @@ pathName: /docs/desktop/relative_strength_index_rsi
 
 ## Description
 
-Developed by J. Welles Wilder and introduced in his 1978 book, *New Concepts in Technical Trading Systems*, the Relative Strength Index (RSI) is an extremely useful and popular momentum oscillator. The RSI compares the magnitude of a stock's recent gains to the magnitude of its recent losses and turns that information into a number that ranges from 0 to 100. 
+Developed by J. Welles Wilder and introduced in his 1978 book, *New Concepts in Technical Trading Systems*, the Relative Strength Index (RSI) is an extremely useful and popular momentum oscillator. The RSI compares the magnitude of a stock's recent gains to the magnitude of its recent losses and turns that information into a number that ranges from 0 to 100.
 
 ... Courtesy of [StockCharts](http://stockcharts.com/education/IndicatorAnalysis/indic_RSI.html)
 
@@ -56,4 +56,3 @@ Print("The current RSI value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu *New > NinjaScript Editor > Indicators* within the NinjaTrader Control Center window.
-

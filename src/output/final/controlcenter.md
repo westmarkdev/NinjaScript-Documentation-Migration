@@ -29,4 +29,3 @@ protected override void OnWindowCreated(Window window)
     ControlCenterNewMenu = cc.FindFirst("ControlCenterMenuItemNew") as NTMenuItem;
 }
 ```
-

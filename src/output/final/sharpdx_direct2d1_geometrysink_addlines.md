@@ -13,11 +13,9 @@ Creates a sequence of lines using the specified points and adds them to the geom
 
 (See also [unmanaged API documentation](https://msdn.microsoft.com/en-us/library/dd316925.aspx))
 
-
 ## Method Return Value
 
 This method does not return a value.
-
 
 ## Syntax
 
@@ -30,4 +28,3 @@ This method does not return a value.
 |  |  |
 | --- | --- |
 | pointsRef | A [SharpDX.Vector2](/docs/desktop/sharpdx_vector2) array of one or more points that describe the lines to draw. A line is drawn from the geometry sink's current point (the end point of the last segment drawn or the location specified by [BeginFigure()](/docs/desktop/sharpdx_direct2d1_geometrysink_beginfigure)) to the first point in the array. If the array contains additional points, a line is drawn from the first point to the second point in the array, from the second point to the third point, and so on. |
-

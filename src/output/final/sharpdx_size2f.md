@@ -30,5 +30,3 @@ struct Size2F
 | --- | --- |
 | Height | Gets or sets the vertical component of this SizeF structure. |
 | Width | Gets or sets the horizontal component of this SizeF structure. |
-
-

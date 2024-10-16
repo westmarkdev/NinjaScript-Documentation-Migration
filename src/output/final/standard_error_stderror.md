@@ -9,7 +9,6 @@ The standard error of a method of measurement or estimation is the standard devi
 
 ... Courtesy of [Wikipedia](http://en.wikipedia.org/wiki/Standard_error_(statistics))
 
-
 ## Syntax
 
 ```csharp
@@ -54,4 +53,3 @@ Print("The current upper Standard Error value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

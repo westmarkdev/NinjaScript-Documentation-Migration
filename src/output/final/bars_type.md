@@ -22,4 +22,3 @@ Creating custom Bars Types allows for incredible flexibility in the way you want
 | [RemoveLastBar()](/docs/desktop/removelastbar) | Removes the last data point for the Bars Type. |
 | [SessionIterator](/docs/desktop/barstype_sessioniterator) | Provides trading session information to the bars type. Must be built using the bars object. |
 | [UpdateBar()](/docs/desktop/updatebar) | Updates a data point in our Bars Type. |
-

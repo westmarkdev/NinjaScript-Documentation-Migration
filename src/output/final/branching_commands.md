@@ -78,4 +78,3 @@ switch (x)
 ```
 
 The above example will print out "x is equal to two" to the NinjaScript Output window. The other two case statements will not be executed, since their conditions do not evaluate to true.
-

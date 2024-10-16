@@ -59,5 +59,4 @@ public class MyAddOnTab : NTTabPage
 
 {% callout type="tip" %}
 The core MarketPosition e.Position is considered flat when Operation.Remove is seen, thus any related tracking in your logic you want to trigger or update should be aware. An Operation.Update would be seen if there was no flat state in between, i.e. on a reverse of the position.
-{% /callout %} 
-
+{% /callout %}

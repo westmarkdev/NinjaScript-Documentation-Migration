@@ -74,9 +74,9 @@ protected override void OnBarUpdate()
 {% callout type="tip" %}
 Tips (also see [Overview](/docs/desktop/managed_approach)):
 
-&bull; This method is ignored if a long position does not exist {% <br> %} 
-&bull; It is helpful to provide a signal name if your strategy has multiple exit points to help identify your exits on a chart {% <br> %} 
-&bull; You can tie an exit to an entry by providing the entry signal name in the parameter "fromEntrySignal" {% <br> %} 
-&bull; If you do not specify a quantity the entire position is exited rendering your strategy flat {% <br> %} 
-&bull; If you do not specify a "fromEntrySignal" parameter the entire position is exited rendering your strategy flat 
+&bull; This method is ignored if a long position does not exist {% <br> %}
+&bull; It is helpful to provide a signal name if your strategy has multiple exit points to help identify your exits on a chart {% <br> %}
+&bull; You can tie an exit to an entry by providing the entry signal name in the parameter "fromEntrySignal" {% <br> %}
+&bull; If you do not specify a quantity the entire position is exited rendering your strategy flat {% <br> %}
+&bull; If you do not specify a "fromEntrySignal" parameter the entire position is exited rendering your strategy flat
 {% /callout %}

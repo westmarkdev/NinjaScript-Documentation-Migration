@@ -24,4 +24,3 @@ Objects derived from the Line class are used to characterize how an oscillator l
 ## Examples
 
 See the [AddLine()](/docs/desktop/addline) method for examples.
-

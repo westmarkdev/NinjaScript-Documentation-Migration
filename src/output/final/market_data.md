@@ -27,4 +27,3 @@ NinjaScript provides a number of methods and properties useful for analyzing and
 | [TickSize](/docs/desktop/ticksize) | The value of 1 tick for the corresponding instrument |
 | [ToDay()](/docs/desktop/today) | Calculates an integer value representing a date |
 | [ToTime()](/docs/desktop/totime) | Calculates an integer value representing a time |
-

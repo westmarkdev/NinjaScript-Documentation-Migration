@@ -25,4 +25,3 @@ See also the "[Common](/docs/desktop/common)" section for more method and proper
 | [IsSuspendedWhileInactive](/docs/desktop/issuspendedwhileinactive) | Prevents real-time market data events from being raised while the indicator's hosting feature is in a state that would be considered suspended and not in immediate use by a user. |
 | [PaintPriceMarkers](/docs/desktop/paintpricemarkers) | If true, any indicator plot values display price markers in the y-axis. |
 | [ShowTransparentPlotsInDataBox](/docs/desktop/showtransparentplotsindatabox) | Determines if plot(s) values which are set to a Transparent brush display in the chart data box. |
-

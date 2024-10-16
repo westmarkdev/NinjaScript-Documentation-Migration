@@ -38,4 +38,3 @@ Draw.GannFan(NinjaScriptBase owner, string tag, bool isAutoScale, int barsAgo, d
 // Draws a Gann Fan at the current bar low
 Draw.GannFan(this, "tag1", true, 0, Low[0]);
 ```
-

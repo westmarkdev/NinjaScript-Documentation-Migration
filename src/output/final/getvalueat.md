@@ -29,6 +29,7 @@ SMA(20).GetValueAt(123); // bar value
 SMA(20).Values[0].GetValueAt(123); // indicator value
 (Input as Indicator).Values[0].GetValueAt(123); // passed in indicator value
 ```
+
 {% /callout %}
 
 ## Parameters

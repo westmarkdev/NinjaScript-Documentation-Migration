@@ -62,4 +62,3 @@ Print("The current Bollinger upper value is " + upperValue.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu **New > NinjaScript Editor > Indicators** within the NinjaTrader Control Center window.
-

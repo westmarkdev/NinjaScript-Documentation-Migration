@@ -31,5 +31,4 @@ RenderTarget
 Each DirectX render target requires its own brushes. You must create brushes directly in [OnRender()](/docs/desktop/onrender) or using [OnRenderTargetChanged()](/docs/desktop/onrendertargetchanged). If you do not, you will receive an error at runtime similar to:  
 "A direct X error has occurred while rendering the chart: HRESULT: [0x88990015], Module: [SharpDX.Direct2D1], ApiCode: [D2DERR_WRONG_RESOURCE_DOMAIN/WrongResourceDomain], Message: The resource was realized on the wrong render target. : Each DirectX render target requires its own brushes. You must create brushes directly in OnRender() or using OnRenderTargetChanged().  
 Please see [OnRenderTargetChanged()](/docs/desktop/onrendertargetchanged) for examples with brushes that need to be recalculated, or [OnRender()](/docs/desktop/onrender) for an example of recreating a static brush.
-{% /callout %} 
-
+{% /callout %}

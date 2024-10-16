@@ -32,4 +32,3 @@ protected override void OnBarUpdate()
         Print(string.Format("Bar number {0} was the last bar processed of the session at {1}.", CurrentBar, Time[0]));
 }
 ```
-

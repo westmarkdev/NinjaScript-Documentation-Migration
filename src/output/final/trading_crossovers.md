@@ -31,4 +31,3 @@ This reference sample sets Calculate to OnEachTick. The reason we are doing this
 3. Select the downloaded file
 
 [SampleHighLowCross_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleHighLowCross_NT8.zip)
-

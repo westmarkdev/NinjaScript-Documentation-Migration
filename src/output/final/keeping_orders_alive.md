@@ -5,7 +5,7 @@ pathName: /docs/desktop/keeping_orders_alive
 
 The default behavior for NinjaTrader is to cancel limit orders if the trigger conditions are no longer true. It is possible to submit orders that stay active until cancelled by setting `liveUntilCancelled` to true. This sample demonstrates and explains the difference between submitting an order with `isLiveUntilCancelled` true and false. The comments contain a longer, more detailed explanation.
 
-## Key concepts in this example:
+## Key concepts in this example
 
 - How to submit an order that stays active until it is explicitly canceled
 
@@ -25,4 +25,3 @@ The default behavior for NinjaTrader is to cancel limit orders if the trigger co
 3. Select the downloaded file
 
 [SampleIsLiveUntilCanceled_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleIsLiveUntilCanceled_NT8.zip)
-

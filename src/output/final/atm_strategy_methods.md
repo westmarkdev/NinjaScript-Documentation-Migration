@@ -25,4 +25,3 @@ From a NinjaScript strategy, it is possible to use ATM strategies to manage your
 - [GetAtmStrategyStopTargetOrderStatus()](/docs/desktop/getatmstrategystoptargetorders)
 - [GetAtmStrategyUniqueId()](/docs/desktop/getatmstrategyuniqueid)
 - [GetAtmStrategyUnrealizedProfitLoss()](/docs/desktop/getatmstrategyunrealizedprofit)
-

@@ -19,4 +19,3 @@ Custom Share Services can be developed in order to enable users to share content
 | [OnAuthorizeAccount()](/docs/desktop/onauthorizeaccount) | If the [UseOAuth](/docs/desktop/isauthorizationrequired) property is set to true, this method will be called when the user clicks the Connect button in the Share Services dialogue under Tools -> [Options](/docs/desktop/options). |
 | [OnShare()](/docs/desktop/onshare) | This method is called when the user clicks OK on the Share window in NinjaTrader. This method can also be called by Alerts and general NinjaScript objects. |
 | [Signature](/docs/desktop/signature) | Sets the text appended to the end of the user's message. |
-

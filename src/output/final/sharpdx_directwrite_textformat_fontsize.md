@@ -22,4 +22,3 @@ A float representing the current font size in DIP units.
 ```csharp
 <textlayout>.FontSize
 ```
-

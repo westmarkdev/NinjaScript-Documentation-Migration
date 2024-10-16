@@ -77,4 +77,3 @@ Tips (also see [Overview](/docs/desktop/managed_approach)):
 &bull; If you do not specify a quantity, the entire position is exited rendering your strategy flat{% <br> %}
 &bull; If you do not specify a "fromEntrySignal" parameter, the entire position is exited rendering your strategy flat
 {% /callout %}
-

@@ -38,4 +38,3 @@ In most cases, you will access the historical price series using a core event ha
 | [Typicals](/docs/desktop/typicals) | Holds an array of `ISeries<double>` objects holding historical bar typical prices. |
 | [Values](/docs/desktop/values) | Holds an array of `ISeries<double>` objects holding the indicator's underlying calculated values. |
 | [Weighteds](/docs/desktop/weighteds) | Holds an array of `ISeries<double>` objects holding historical bar weighted prices. |
-

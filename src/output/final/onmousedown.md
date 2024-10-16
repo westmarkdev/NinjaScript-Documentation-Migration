@@ -17,7 +17,7 @@ For a combined single click operation, i.e. mouse down click, move and release t
 
 ## Syntax
 
-## You must override the method in your Drawing Tool with the following syntax.
+## You must override the method in your Drawing Tool with the following syntax
 
 ```csharp
 public override void OnMouseDown(ChartControl chartControl, ChartPanel chartPanel, ChartScale chartScale, ChartAnchor dataPoint)
@@ -59,4 +59,3 @@ public override void OnMouseDown(ChartControl chartControl, ChartPanel chartPane
     }
 }
 ```
-

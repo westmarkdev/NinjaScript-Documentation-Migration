@@ -47,4 +47,3 @@ The NinjaScript Editor includes a range of keyboard shortcuts not available in o
 | Ctrl + Shift + W | Select word |
 | Ctrl + Shift + ] | Select up to matching bracket |
 | Shift + Alt + Arrow Keys | Expand/contract selection region |
-

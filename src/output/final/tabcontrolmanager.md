@@ -52,4 +52,3 @@ public AddOnFrameworkWindow()
     tc.AddNTTabPage(new AddOnFrameworkTab());
 }
 ```
-

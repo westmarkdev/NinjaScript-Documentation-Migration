@@ -10,4 +10,3 @@ pathName: /docs/reference_samples
 {% callout type="note" %}
 This section provides an overview of reference samples for indicators and strategies within the SDK documentation. Please refer to the respective links for detailed information.
 {% /callout %}
-

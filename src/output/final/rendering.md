@@ -6,6 +6,7 @@ pathName: /docs/desktop/rendering
 Rendering methods and properties can be useful when carrying out custom drawing tasks for chart objects. Event handlers such as [OnCalculateMinMax()](/docs/desktop/oncalculateminmax) and [OnRender()](/docs/desktop/onrender) allow you to override behavior at key points in the rendering process.
 
 {% callout type="note" %}
+
 1. Some rendering methods and properties make use of [SharpDX](http://sharpdx.org/) libraries, which provide a managed framework for working with DirectX technology. Please see the [SharpDX SDK Reference](/docs/desktop/sharpdx_sdk_reference) for more information.
 2. For a walk through for using the SharpDX, please see the educational resource [Using SharpDX for Custom Chart Rendering](/docs/desktop/using_sharpdx_for_custom_chart_rendering).
 {% /callout %}
@@ -26,4 +27,3 @@ Rendering methods and properties can be useful when carrying out custom drawing 
 | [OnRenderTargetChanged()](/docs/desktop/onrendertargetchanged) | Used for efficient handling of SharpDX resources. |
 | [PanelUI](/docs/desktop/panelui) | The chart panel that is configured on the chart's UI. |
 | [ZOrder](/docs/desktop/chart_zorder) | A unique identifier used to control the order in which chart objects are drawn on the chart's Z-axis. |
-

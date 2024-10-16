@@ -44,4 +44,3 @@ protected override void OnDataPoint(Bars bars, double open, double high, double 
     AddBar(bars, open, high, low, close, SessionIterator.ActualTradingDayExchange, volume);
 }
 ```
-

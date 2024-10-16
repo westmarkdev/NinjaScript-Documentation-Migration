@@ -33,4 +33,3 @@ protected override void OnBarUpdate()
     Print("The average entry price is " + PositionAccount.AveragePrice);
 }
 ```
-

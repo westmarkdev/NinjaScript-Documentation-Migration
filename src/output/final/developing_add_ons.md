@@ -28,4 +28,3 @@ Once the functionality of your Add On is determined you can use the following bu
 The general flow goes from AddOnBase > NTWindow > INTTabFactory > NTTabPage.
 
 AddOnBase determines the user entry point and then creates the event handler to create the NTWindow. NTWindow calls the tab factory which then brings in the NTTabPage content in the form of tabs into NTWindow.
-

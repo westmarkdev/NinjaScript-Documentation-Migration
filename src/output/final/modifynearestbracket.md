@@ -32,4 +32,3 @@ MethodName(int input)
 ```csharp
 1 | 
 ```
-

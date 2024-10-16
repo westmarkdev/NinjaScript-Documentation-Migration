@@ -36,4 +36,3 @@ The following pages contain valuable resources for developing your custom NinjaS
 - [Basic Programming Concepts](/docs/desktop/basic_programming_concepts)
 - [Developing Indicators](/docs/desktop/developing_indicators)
 - [Developing Strategies](/docs/desktop/developing_strategies)
-

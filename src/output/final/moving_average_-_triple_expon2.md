@@ -9,7 +9,6 @@ The triple exponential average (TRIX) indicator is an oscillator used to identif
 
 ... Courtesy of [Investopedia](http://www.investopedia.com/articles/technical/02/092402.asp)
 
-
 ## Syntax
 
 ```csharp
@@ -40,11 +39,9 @@ TRIX(int period, int signalPeriod).Signal[int barsAgo]
 TRIX(ISeries<double> input, int period, int signalPeriod).Signal[int barsAgo]
 ```
 
-
 ## Return Value
 
 `double`; Accessing this method via an index value `[int barsAgo]` returns the indicator value of the referenced bar.
-
 
 ## Parameters
 
@@ -53,7 +50,6 @@ TRIX(ISeries<double> input, int period, int signalPeriod).Signal[int barsAgo]
 | input          | Indicator source data ([Valid Input Data for Indicator](/docs/desktop/valid_input_data_for_indicator)) |
 | period         | Number of bars used in the calculation                    |
 | signalPeriod   | Period for signal line                                     |
-
 
 ## Examples
 
@@ -67,8 +63,6 @@ double value = TRIX(High, 20, 3).Signal[0];
 Print("The current TRIX signal value is " + value.ToString());
 ```
 
-
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

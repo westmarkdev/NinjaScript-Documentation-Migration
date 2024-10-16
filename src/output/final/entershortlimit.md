@@ -61,4 +61,3 @@ protected override void OnBarUpdate()
         EnterShortLimit(GetCurrentAsk(), "SMA Cross Entry");
 }
 ```
-

@@ -43,4 +43,3 @@ For error-handling, money-management, or any other reason, you may want to halt 
 [SampleHaltAdvancedStrategy_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleHaltAdvancedStrategy_NT8.zip)
 
 [SampleHaltBasicStrategy_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleHaltBasicStrategy_NT8.zip)
-

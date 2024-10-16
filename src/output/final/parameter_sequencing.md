@@ -38,4 +38,3 @@ public int Slow
 ```
 
 ... the Slow property will show first and the Fast property second.
-

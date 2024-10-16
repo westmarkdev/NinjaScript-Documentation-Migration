@@ -48,6 +48,7 @@ protected override void OnMarketDepth(MarketDepthEventArgs marketDepthUpdate)
 ```
 
 {% callout type="tip" %}
+
 1. With [multi-time frame and instrument strategies](/docs/desktop/multi-time_frame__instruments), OnMarketDepth will be called for all unique instruments in your strategy. Use the [BarsInProgress](/docs/desktop/barsinprogress) to filter the OnMarketDepth() method for a specific instrument. (BarsInProgress will return the first BarsInProgress series that matches the instrument for the event).
 2. Do not leave an unused OnMarketDepth() method declared in your NinjaScript object. This will unnecessarily attach a data stream to your strategy which uses unnecessary CPU cycles.
 3. Should you wish to run comparisons against prior values you will need to store and update local variables to track the relevant values.

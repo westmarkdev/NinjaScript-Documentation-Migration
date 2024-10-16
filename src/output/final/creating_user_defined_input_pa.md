@@ -54,4 +54,3 @@ public int Period
 if (SMA(Period)[0] > SMA(Period)[1])
 // Do something
 ```
-

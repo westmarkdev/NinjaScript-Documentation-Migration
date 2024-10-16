@@ -26,4 +26,3 @@ One of the benefits of NinjaScript is the ability to automatically submit stop l
 3. Select the downloaded file
 
 [SamplePriceModification_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SamplePriceModification_NT8.zip)
-

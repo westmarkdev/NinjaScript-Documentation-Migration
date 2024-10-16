@@ -46,4 +46,3 @@ else if (State == State.DataLoaded)
 {% callout type="tip" %}
 When working with multi-series indicators, Input is not guaranteed to reference the primary [BarsInProgress](/docs/desktop/barsinprogress). Please be mindful as to when you access Input[0] as you will only be able to do so after the contextual BarsInProgress has bars. To check to ensure BarsInProgress has some bars you can use [CurrentBars](/docs/desktop/currentbars) to check.
 {% /callout %}
-

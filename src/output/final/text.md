@@ -29,4 +29,3 @@ Text myText = Draw.Text(this, "tag1", "Text to draw", 10, High[10] + (5 * TickSi
 // Change the object's DisplayText
 myText.DisplayText = "New Display Text";
 ```
-

@@ -31,4 +31,3 @@ struct Ellipse
 | Point | A [SharpDX.Vector](/docs/desktop/sharpdx_vector2) for the center point of the ellipse |
 | RadiusX | A float for the X-radius of the ellipse |
 | RadiusY | A float for the Y-radius of the ellipse |
-

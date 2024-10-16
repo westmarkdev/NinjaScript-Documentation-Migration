@@ -30,4 +30,3 @@ You can submit orders to different Bars objects. This allows you the flexibility
 3. Select the downloaded file
 
 [SampleIntrabarBacktest_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleIntrabarBacktest_NT8.zip)
-

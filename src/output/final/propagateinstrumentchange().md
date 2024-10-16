@@ -8,7 +8,7 @@ pathName: /docs/desktop/propagateinstrumentchange
 In an [NTWindow](/docs/desktop/ntwindow), `PropagateInstrumentChange()` sends an Instrument to other windows with the same Instrument Linking color configured.
 
 {% callout type="note" %}
-&bull; A public Instrument property must be defined in order to use `PropagateInstrumentChange()`, as in the example below. {% <br> %} 
+&bull; A public Instrument property must be defined in order to use `PropagateInstrumentChange()`, as in the example below. {% <br> %}
 &bull; For a complete, working example of this class in use, download the framework example located on our [Developing AddOns Overview](/docs/desktop/developing_add_ons).
 {% /callout %}
 

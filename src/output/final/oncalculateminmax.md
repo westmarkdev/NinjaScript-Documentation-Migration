@@ -5,7 +5,7 @@ pathName: /docs/desktop/oncalculateminmax
 
 ## Definition
 
-An event driven method which is called while the chart scale is being updated. This method is used to determine the highest and lowest value that can be used for the chart scale. It is only called when the chart object is either set to [IsAutoScale](/docs/desktop/isautoscale) while there are multiple charts objects rendered or only a single object would be rendered on the chart. 
+An event driven method which is called while the chart scale is being updated. This method is used to determine the highest and lowest value that can be used for the chart scale. It is only called when the chart object is either set to [IsAutoScale](/docs/desktop/isautoscale) while there are multiple charts objects rendered or only a single object would be rendered on the chart.
 
 {% callout type="note" %}
 The indexer used to look up a [Series&lt;t&gt;](/docs/desktop/seriest) value through barsAgo is NOT guaranteed to be in sync when the OnCalculateMinMax() method is called. You will need to use [GetValueAt()](/docs/desktop/getvalueat) to obtain a historical value at a specified absolute index.
@@ -67,4 +67,3 @@ public override void OnCalculateMinMax()
     MaxValue = tmpMax + 50 * TickSize;
 }
 ```
-

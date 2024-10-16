@@ -8,6 +8,7 @@ pathName: /docs/desktop/marketdepth
 MarketDepth can be used to access snapshot market depth and for subscribing to market depth events.
 
 {% callout type="note" %}
+
 1. Remember to unsubscribe if you are no longer using the subscription.  
 2. You should only unsubscribe to a market depth event if you are actually subscribed.  
 3. You must unsubscribe from the same thread where the subscription is made. It is therefore recommended to use an [Instrument's](/docs/desktop/instrument) Dispatcher to ensure this is handled properly.
@@ -68,4 +69,3 @@ public class MyAddOnTab : NTTabPage
     // Other required NTTabPage members left out for demonstration purposes. Be sure to add them in your own code.
 }
 ```
-

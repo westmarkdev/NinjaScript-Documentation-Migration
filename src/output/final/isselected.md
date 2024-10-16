@@ -27,6 +27,7 @@ IsSelected
 | ```csharp
 protected override void OnRender(ChartControl chartControl, ChartScale chartScale)
 {
+
     foreach(DrawingTool drawTool in DrawObjects)
     {
         // only apply logic below to types of "rectangle"
@@ -44,6 +45,7 @@ protected override void OnRender(ChartControl chartControl, ChartScale chartScal
         }
     }
 }
+
 ``` |
 | Explicitly setting the IsSelected property from a DrawingTool type |
 | ```csharp

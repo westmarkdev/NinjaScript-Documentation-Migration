@@ -48,4 +48,3 @@ NinjaTrader
 3. Select the downloaded file.
 
 [SampleWPFModifications.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleWPFModifications.zip)
-

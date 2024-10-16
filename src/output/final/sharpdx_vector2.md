@@ -34,4 +34,3 @@ For NinjaScript Development Purposes, you can use the [NinjaTrader.Gui.DxExtensi
 | --- | --- |
 | X | A float for the X component of the vector.  |
 | Y | A float for the Y component of the vector.  |
-

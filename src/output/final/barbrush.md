@@ -38,4 +38,3 @@ protected override void OnBarUpdate()
         BarBrush = Brushes.Yellow;
 }
 ```
-

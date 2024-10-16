@@ -8,6 +8,7 @@ pathName: /docs/desktop/marketdata
 MarketData can be used to access snapshot market data and for subscribing to market data events.
 
 {% callout type="note" %}
+
 1. Remember to unsubscribe if you are no longer using the subscription.  
 2. You should only unsubscribe to a market data event if you are actually subscribed.
 {% /callout %}
@@ -82,4 +83,3 @@ public class MyAddOnTab : NTTabPage
     // Other required NTTabPage members left out for demonstration purposes. Be sure to add them in your own code.
 }
 ```
-

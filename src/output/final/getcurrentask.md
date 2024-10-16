@@ -8,6 +8,7 @@ pathName: /docs/getcurrentask
 Returns the current real-time ask price.
 
 {% callout type="note" %}
+
 1. When accessed during State.Historical, the [Close](/docs/desktop/close) price of the evaluated bar is substituted. To access historical Ask prices, please see [Developing for Tick Replay](/docs/desktop/developing_for__tick_replay).
 2. The GetCurrentAsk() method runs on the bar series currently updating determined by the [BarsInProgress](/docs/desktop/barsinprogress) property. For [multi-instrument](/docs/desktop/multi-time_frame__instruments) scripts, an additional int "barsSeriesIndex" parameter can be supplied which forces the method to run on a supplementary bar series.
 {% /callout %}
@@ -75,4 +76,3 @@ protected override void OnBarUpdate()
     }
 }
 ```
-

@@ -7,11 +7,9 @@ pathName: /docs/desktop/draw_trendchannel
 
 Draws a trend channel.
 
-
 ## Method Return Value
 
 A [TrendChannel](/docs/desktop/trendchannel) object that represents the draw object.
-
 
 ## Syntax
 
@@ -24,7 +22,6 @@ Draw.TrendChannel(NinjaScriptBase owner, string tag, bool isAutoScale, int ancho
 
 Draw.TrendChannel(NinjaScriptBase owner, string tag, bool isAutoScale, DateTime anchor1Time, double anchor1Y, DateTime anchor2Time, double anchor2Y, DateTime anchor3Time, double anchor3Y, bool isGlobal, string templateName)
 ```
-
 
 ## Parameters
 
@@ -45,11 +42,9 @@ Draw.TrendChannel(NinjaScriptBase owner, string tag, bool isAutoScale, DateTime 
 | isGlobal | Determines if the draw object will be global across all charts which match the instrument |
 | templateName | The name of the drawing tool template the object will use to determine various visual properties {% <br> %} (empty string could be used to just use the UI default visuals instead) |
 
-
 ## Examples
 
 ```csharp
 // Draws a trend channel
 Draw.TrendChannel(this, "tag1", true, 10, Low[10], 0, High[0], 10, High[10] + 5 * TickSize);
 ```
-

@@ -22,4 +22,3 @@ A float representing the text layout maximum width.
 ```csharp
 <textlayout>.MaxWidth
 ```
-

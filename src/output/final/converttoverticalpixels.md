@@ -38,4 +38,3 @@ public override void OnMouseDown(ChartControl chartControl, ChartPanel chartPane
     Print("after convert: " + yPixel); //after convert: 1108
 }
 ```
-

@@ -34,4 +34,3 @@ You can submit orders to different bars objects. This allows you the flexibility
 3. Select the downloaded file
 
 [SampleMultiTimeFrameOrders_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleMultiTimeFrameOrders_NT8.zip)
-

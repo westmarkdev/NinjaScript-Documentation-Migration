@@ -34,4 +34,3 @@ public override string Format(object value, Cbi.PerformanceUnit unit, string pro
     return value.ToString();
 }
 ```
-

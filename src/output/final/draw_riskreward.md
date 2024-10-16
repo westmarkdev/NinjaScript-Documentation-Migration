@@ -48,4 +48,3 @@ Draw.RiskReward(NinjaScriptBase owner, string tag, bool isAutoScale, int entryBa
 // with calculate a ratio of 2 based on stop level
 Draw.RiskReward(this, "tag1", false, 0, High[0], 10, Low[0], 2, true);
 ```
-

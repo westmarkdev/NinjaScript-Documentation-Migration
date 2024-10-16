@@ -20,4 +20,3 @@ An `int` for the number of entries in the dashes array if the stroke is dashed; 
 ## Syntax
 
 `<strokestyle>.DashesCount`
-

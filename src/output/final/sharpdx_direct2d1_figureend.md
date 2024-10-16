@@ -25,4 +25,3 @@ enum FigureEnd
 | --- | --- |
 | Open | The figure is open. |
 | Closed | The figure is closed. |
-

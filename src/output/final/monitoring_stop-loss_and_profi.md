@@ -30,4 +30,3 @@ At times you may have a need to monitor the stop-loss and profit target orders g
 3. Select the downloaded file
 
 [SampleMonitorStopProfit_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleMonitorStopProfit_NT8.zip)
-

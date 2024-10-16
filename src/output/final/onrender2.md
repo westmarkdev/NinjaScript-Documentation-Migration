@@ -7,7 +7,7 @@ pathName: /docs/desktop/onrender
 
 Used to draw custom content to a Market Analyzer Column, such as a graph.
 
-## This method is called during the following conditions:
+## This method is called during the following conditions
 
 - The Market Analyzer is scrolled
 

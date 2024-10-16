@@ -27,4 +27,3 @@ LineMetrics[int idx]
 | Length | An int value for the number of text positions in the text line. This includes any trailing whitespace and newline characters. |
 | NewlineLength | An int value for the number of characters in the newline sequence at the end of the text line. If the count is zero, then the text line was either wrapped or it is the end of the text. |
 | TrailingWhitespaceLength | An int value for the number of whitespace positions at the end of the text line. Newline sequences are considered whitespace. |
-

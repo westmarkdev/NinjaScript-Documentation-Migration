@@ -26,4 +26,3 @@ FibonacciRetracements myFibRet = Draw.FibonacciRetracements(this, "tag1", true, 
 // Set the object's lines to extend to the right
 myFibRet.IsExtendedLinesRight = true;
 ```
-

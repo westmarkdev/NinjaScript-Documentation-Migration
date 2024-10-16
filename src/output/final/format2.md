@@ -23,4 +23,3 @@ public override string Format(double value)
     return (value == double.MinValue ? string.Empty : Instrument.MasterInstrument.FormatPrice(value));
 }
 ```
-

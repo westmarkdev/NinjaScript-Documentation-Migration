@@ -28,4 +28,3 @@ PriceLevel myLevel = new PriceLevel(99, Brushes.Black);
 // Change the object's price level at index 3
 myFibTime.PriceLevels[3] = myLevel;
 ```
-

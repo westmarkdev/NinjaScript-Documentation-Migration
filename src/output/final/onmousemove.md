@@ -53,4 +53,3 @@ public override void OnMouseMove(ChartControl chartControl, ChartPanel chartPane
     }
 }
 ```
-

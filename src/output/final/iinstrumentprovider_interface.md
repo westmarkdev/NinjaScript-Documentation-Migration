@@ -45,4 +45,3 @@ public class MyWindowTabPage : NTTabPage, IInstrumentProvider
     // Be sure to include all the required NTTabPage members as well
 }
 ```
-

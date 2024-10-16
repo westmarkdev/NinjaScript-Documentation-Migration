@@ -47,4 +47,3 @@ The size of the arrow is tied to the chart's BarWidth and thus will scale automa
 // Paints a red up arrow on the current bar 1 tick below the low
 Draw.ArrowUp(this, "tag1", true, 0, Low[0] - TickSize, Brushes.Red);
 ```
-

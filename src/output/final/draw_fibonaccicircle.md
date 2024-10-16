@@ -42,4 +42,3 @@ Draw.FibonacciCircle(NinjaScriptBase owner, string tag, bool isAutoScale, int st
 // Draws a Fibonacci circle
 Draw.FibonacciCircle(this, "tag1", true, 10, Low[10], 0, High[0]);
 ```
-

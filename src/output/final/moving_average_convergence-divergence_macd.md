@@ -67,4 +67,3 @@ Print("The current MACD difference value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method's source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

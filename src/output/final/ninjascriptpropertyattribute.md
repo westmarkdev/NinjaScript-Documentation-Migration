@@ -58,4 +58,3 @@ public string BeginTimeSpanSerialize
    set { BeginTimeSpan = TimeSpan.Parse(value); }
 }
 ```
-

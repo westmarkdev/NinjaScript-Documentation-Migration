@@ -30,4 +30,3 @@ Contains the metrics associated with text after layout. All coordinates are in d
 | LayoutHeight | A float value that indicates the initial height given to the layout. Depending on the length of the text, it may be larger or smaller than the text content height. |
 | MaxBidiReorderingDepth | An int value representing the maximum reordering count of any line of text, used to calculate the most number of hit-testing boxes needed. If the layout has no bidirectional text, or no text at all, the minimum level is 1. |
 | LineCount |  An int value representing total number of lines. |
-

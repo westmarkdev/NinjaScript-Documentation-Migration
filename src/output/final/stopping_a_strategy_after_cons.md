@@ -30,4 +30,3 @@ This reference sample uses the .AllTrades property. This property will include a
 3. Select the downloaded file.
 
 [SampleTradeObjects_Nt8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleTradeObjects_Nt8.zip)
-

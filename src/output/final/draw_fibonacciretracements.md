@@ -51,4 +51,3 @@ Draw.FibonacciRetracements(NinjaScriptBase owner, string tag, bool isAutoScale, 
 // Draws a Fibonacci retracement
 Draw.FibonacciRetracements(this, "tag1", true, 10, Low[10], 0, High[0]);
 ```
-

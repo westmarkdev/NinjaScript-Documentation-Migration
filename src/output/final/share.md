@@ -39,7 +39,7 @@ Share(string serviceName, string message, string screenshotPath, object[] args)
 {% callout type="tip" %}
 
 1. The "args" parameter differs for each share service used. If you are using a custom developed share adapter, you need to work with the developer of that adapter to understand what the "args" parameter represents for that adapter.
-   
+
 2. For the default NinjaTrader share adapters, the "args" array represents the following:  
    &bull; Mail share service:  
    &bull; args[0] = A string representing the email "To" field,  
@@ -55,4 +55,3 @@ Share(string serviceName, string message, string screenshotPath, object[] args)
 // using "args" as the Mail "To" and "Subject" parameters
 Share("Gmail", "Test Message", new object[]{ "example@test.com", "Test Subject Line" });
 ```
-

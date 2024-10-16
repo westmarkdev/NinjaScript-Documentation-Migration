@@ -37,4 +37,3 @@ protected override void OnBarUpdate()
     }
 }
 ```
-

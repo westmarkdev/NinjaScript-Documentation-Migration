@@ -18,7 +18,7 @@ PositionsAccount[1] == Always a flat position, ES position will always be Positi
 PositionsAccount[2] == NQ position  
 
 {% callout type="tip" %}
-&bull; For single instrument scripts, please see [PositionAccount](/docs/desktop/positionaccount) object{% <br> %} 
+&bull; For single instrument scripts, please see [PositionAccount](/docs/desktop/positionaccount) object{% <br> %}
 &bull; For Strategy Positions, please see [Positions](/docs/desktop/positions)  
 {% /callout %}
 
@@ -61,4 +61,3 @@ protected override void OnBarUpdate()
         Print("NQ account position is " + PositionAccount.MarketPosition);
 }
 ```
-

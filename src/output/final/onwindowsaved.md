@@ -42,4 +42,3 @@ protected override void OnWindowSaved(Window window, XElement element)
     base.OnWindowSaved(window, element);
 }
 ```
-

@@ -27,4 +27,3 @@ FibonacciExtensions myFibExt = Draw.FibonacciExtensions(this, "tag1", true, 4, L
 // Extend the Fibonacci Extension object's lines to the right
 myFibExt.IsExtendedLinesRight = true;
 ```
-

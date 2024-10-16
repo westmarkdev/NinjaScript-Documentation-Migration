@@ -28,4 +28,3 @@ struct ArcSegment
 | RotationAngle   | A value that specifies how many degrees in the clockwise direction the ellipse is rotated relative to the current coordinate system. |
 | SweepDirection   | A [SweepDirection](/docs/desktop/sharpdx_direct2d1_sweepdirection) enum value that specifies whether the arc sweep is clockwise or counterclockwise. |
 | ArcSize         | A value that specifies whether the given arc is larger than 180 degrees.                        |
-

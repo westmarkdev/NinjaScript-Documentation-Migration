@@ -5,7 +5,7 @@ pathName: /docs/desktop/simplefont_class
 
 ## Definition
 
-Defines a particular font configuration. 
+Defines a particular font configuration.
 
 {% callout type="note" %}
 SimpleFont objects are used for various [Drawing](/docs/desktop/drawing) methods, and can be used when defining UI element for Add-ons.
@@ -41,4 +41,3 @@ The WPF unit used is the default px one, so device independent pixels. With a de
 NinjaTrader.Gui.Tools.SimpleFont myFont = new NinjaTrader.Gui.Tools.SimpleFont("Courier New", 12) { Size = 50, Bold = true };
 Draw.Text(this, "myTag", false, "Hi There!", 0, Low[0], 5, Brushes.Blue, myFont, TextAlignment.Center, Brushes.Black, null, 1);
 ```
-

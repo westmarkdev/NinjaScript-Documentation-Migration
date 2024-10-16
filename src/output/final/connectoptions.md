@@ -46,4 +46,3 @@ private Connection Connect(string connectionName)
         }
 }
 ```
-

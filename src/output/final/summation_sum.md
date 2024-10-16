@@ -12,6 +12,7 @@ Returns the sum of the values taken over a specified period.
 ```csharp
 SUM(int period)
 ```
+
 ```csharp
 SUM(ISeries<double> input, int period)
 ```
@@ -21,6 +22,7 @@ Returns default value.
 ```csharp
 SUM(int period)[int barsAgo]
 ```
+
 ```csharp
 SUM(ISeries<double> input, int period)[int barsAgo]
 ```
@@ -50,4 +52,3 @@ Print("The current SUM value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

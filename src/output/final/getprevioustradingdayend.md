@@ -32,11 +32,11 @@ This method is resource intensive and should ONLY be reserved for situations whe
 ```csharp
 protected override void OnBarUpdate()
 {
-	if (Bars.IsFirstBarOfSession)
-	{
-		DateTime previousEndDate = TradingHours.GetPreviousTradingDayEnd(Time[0]);
-		Print(string.Format("The current bars date is {0} - the previous trading session ended on {1}", Time[0], previousEndDate));
-		// Output:  The current bars date is 2/18/2015 12:35:00 PM - the previous trading session ended on 2/17/2015 3:15:00 PM
-	}
+ if (Bars.IsFirstBarOfSession)
+ {
+  DateTime previousEndDate = TradingHours.GetPreviousTradingDayEnd(Time[0]);
+  Print(string.Format("The current bars date is {0} - the previous trading session ended on {1}", Time[0], previousEndDate));
+  // Output:  The current bars date is 2/18/2015 12:35:00 PM - the previous trading session ended on 2/17/2015 3:15:00 PM
+ }
 }
 ```

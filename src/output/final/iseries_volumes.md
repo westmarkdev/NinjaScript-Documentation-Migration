@@ -42,4 +42,3 @@ protected override void OnBarUpdate()
         Print("The primary bar's volume is greater");
 }
 ```
-

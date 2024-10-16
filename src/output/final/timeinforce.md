@@ -31,27 +31,26 @@ TimeInForce
 
 | ns | Setting default TIF for all strategy orders |
 | --- | --- |
-| protected override void OnStateChange() | 
-| { | 
-|   if (State == State.SetDefaults) | 
-|   { | 
-|       TimeInForce = TimeInForce.Day; | 
-|   } | 
-| } | 
+| protected override void OnStateChange() |
+| { |
+|   if (State == State.SetDefaults) |
+|   { |
+|       TimeInForce = TimeInForce.Day; |
+|   } |
+| } |
 
 | ns | Setting TIF conditionally  |
 | --- | --- |
-| protected override void OnStateChange() | 
-| { | 
-|   if (State == State.Configure) | 
-|   { | 
-|       if (Instrument != null) | 
-|       { | 
-|           if (Instrument.Exchange == Exchange.Nybot) | 
-|               TimeInForce = TimeInForce.Day; | 
-|           else if (Instrument.Exchange == Exchange.Globex) | 
-|               TimeInForce = TimeInForce.Gtc; | 
-|       } | 
-|   } | 
-| } | 
-
+| protected override void OnStateChange() |
+| { |
+|   if (State == State.Configure) |
+|   { |
+|       if (Instrument != null) |
+|       { |
+|           if (Instrument.Exchange == Exchange.Nybot) |
+|               TimeInForce = TimeInForce.Day; |
+|           else if (Instrument.Exchange == Exchange.Globex) |
+|               TimeInForce = TimeInForce.Gtc; |
+|       } |
+|   } |
+| } |

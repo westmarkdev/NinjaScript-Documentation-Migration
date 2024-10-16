@@ -6,6 +6,7 @@ pathName: /docs/desktop/atmstrategy
 AtmStrategy contains properties and methods used to manage [ATM Strategies](/docs/desktop/advanced_trade_management_atm). When working with an [AtmStrategySelector](/docs/desktop/atmstrategyselector), selected objects can be cast to AtmStrategy to obtain or change their properties.
 
 {% callout type="note" %}
+
 1. For a complete, working example of this class in use, download the framework example located on our [Developing AddOns Overview](/docs/desktop/developing_add_ons).
 2. For more information on working with the ATM strategies programmatically in general, please see the [Using ATM Strategies](/docs/desktop/using_atm_strategies) section.
 {% /callout %}
@@ -30,4 +31,3 @@ myAtmStrategySelector.SelectionChanged += (o, args) =>
     }
 };
 ```
-

@@ -20,4 +20,3 @@ A float value representing the y-radius of the gradient ellipse. This value is e
 ## Syntax
 
 <radialgradientbrush>.RadiusY
-

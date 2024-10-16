@@ -35,4 +35,3 @@ Possible values are:
 ## Syntax
 
 <strokestyle>.LineJoin
-

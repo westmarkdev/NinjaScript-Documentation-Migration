@@ -8,7 +8,8 @@ pathName: /docs/desktop/managed_cancelorder
 Cancels a specified order. This method is reserved for experienced programmers that fully understand the concepts of advanced order handling.
 
 {% callout type="note" %}
-1. This method sends a cancel request to the broker and does not guarantee that an order is completely cancelled. Most of the time you can expect your order to come back 100% cancelled. 
+
+1. This method sends a cancel request to the broker and does not guarantee that an order is completely cancelled. Most of the time you can expect your order to come back 100% cancelled.
 2. An order can be completely filled or part filled in the time that you send the cancel request and the time the exchange receives the request. Check the [OnOrderUpdate()](/docs/desktop/onorderupdate) method for the state of an order you attempted to cancel.
 {% /callout %}
 

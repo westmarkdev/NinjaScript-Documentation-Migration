@@ -67,4 +67,3 @@ protected override void OnRender(ChartControl chartControl, ChartScale chartScal
     }
 }
 ```
-

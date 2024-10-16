@@ -42,4 +42,3 @@ Make sure to follow the import process carefully to avoid any issues.
 {% callout type="tip" %}
 After importing the strategy, test it in a simulated environment before deploying it live.
 {% /callout %}
-

@@ -43,4 +43,3 @@ RenderTarget.DrawGeometry(Geometry geometry, Brush brush, float strokeWidth, Str
 | geometry | The [SharpDX.Direct2D1.Geometry](/docs/desktop/sharpdx_direct2d1_pathgeometry) to draw |
 | strokeStyle | The [SharpDX.Direct2D1.StrokeStyle](/docs/desktop/sharpdx_direct2d1_strokestyle) to apply to the geometry's outline, or null to paint a solid stroke. |
 | strokeWidth | The thickness of the geometry's stroke. The stroke is centered on the geometry's outline. |
-

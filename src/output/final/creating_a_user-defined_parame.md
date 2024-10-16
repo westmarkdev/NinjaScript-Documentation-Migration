@@ -22,4 +22,3 @@ Creating user-defined parameters allows you to present the user with hard coded 
 3. Select the downloaded file
 
 [SampleUniversalMovingAverage_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleUniversalMovingAverage_NT8.zip)
-

@@ -48,4 +48,3 @@ protected override void OnBarUpdate()
     MyPlot[0] = (Close[0] + Open[0] * .0025);
 }
 ```
-

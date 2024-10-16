@@ -38,4 +38,3 @@ protected override void OnBarUpdate()
         Print("The primary bar's high price is greater");
 }
 ```
-

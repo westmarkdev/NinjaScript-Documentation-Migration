@@ -38,7 +38,7 @@ This segment outputs the following:
 x equals y: False
 ```
 
-This means when we try to check for equality it would never evaluate to true even if it does mathematically. 
+This means when we try to check for equality it would never evaluate to true even if it does mathematically.
 
 ```csharp
 if (x == y)
@@ -82,4 +82,3 @@ For a more formal analysis of floating-point arithmetic, there are many resource
 
 - [http://docs.sun.com/source/806-3568/ncg/goldberg.html](http://docs.sun.com/source/806-3568/ncg/goldberg.html)
 - [http://www.codeproject.com/extremefloatingpoint1.asp#terms](http://www.codeproject.com/extremefloatingpoint1.asp#terms)
-

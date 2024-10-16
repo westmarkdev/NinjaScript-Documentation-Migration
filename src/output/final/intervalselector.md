@@ -37,8 +37,8 @@ This example demonstrates how to use the interval selector and properly link its
 | if (e.BarsPeriod == null) |
 | return; |
 | } |
-| /* IIntervalProvider member. Required if you want to use the interval linker mechanism on this window. |
-| No functionality has been linked to the interval linker in this sample. */ |
+| /*IIntervalProvider member. Required if you want to use the interval linker mechanism on this window. |
+| No functionality has been linked to the interval linker in this sample.*/ |
 | public BarsPeriod BarsPeriod { get; set; } |
 | // NOTE: Don't forget to clean up resources and unsubscribe to events |
 | // Called by TabControl when tab is being removed or window is closed |
@@ -66,4 +66,3 @@ This example demonstrates how to use the interval selector and properly link its
   </grid>
 </page>
 ```
-

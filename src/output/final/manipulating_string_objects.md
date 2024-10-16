@@ -35,4 +35,3 @@ A related sample demonstrating how to format numbers can be found [here](/docs/d
 3. Select the downloaded file.
 
 [SampleStringFunctions_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleStringFunctions_NT8.zip)
-

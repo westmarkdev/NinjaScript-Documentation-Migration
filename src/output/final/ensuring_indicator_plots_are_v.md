@@ -33,4 +33,3 @@ When hosting an indicator in an Indicator column in the Market Analyzer, you wil
 3. Select the downloaded file.
 
 [SampleEveryNBarTest_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleEveryNBarTest_NT8.zip)
-

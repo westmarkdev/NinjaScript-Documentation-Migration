@@ -36,4 +36,3 @@ struct Color4
 | Green | The green component of the color |
 | Blue | The blue component of the color |
 | Alpha | The alpha component of the color |
-

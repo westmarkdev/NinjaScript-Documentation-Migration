@@ -7,7 +7,7 @@ pathName: /docs/desktop/superdomcolumn_onrender
 
 Used to draw custom content to the SuperDOM Column, such as a Grid.  
 
-## This method is called during the following conditions:
+## This method is called during the following conditions
 
 - The SuperDOM is centered (either automatically or when the user presses the Center button)
 
@@ -67,4 +67,3 @@ protected override void OnRender(DrawingContext dc, double renderWidth)
     // Rendering logic for our column
 }
 ```
-

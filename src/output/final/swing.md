@@ -75,4 +75,3 @@ Print("The high of the swing bar is " + High[Math.Max(0, Swing(5).SwingHighBar(0
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

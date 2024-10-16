@@ -32,4 +32,3 @@ GetValueAt(int input)
 ```csharp
 1 |
 ```
-

@@ -42,4 +42,3 @@ if (Bars != null)
 | [PercentComplete](/docs/desktop/percentcomplete) | Value indicating the completion percent of a bar |
 | [TickCount](/docs/desktop/tickcount) | Total number of ticks of the current bar |
 | [ToChartString()](/docs/desktop/tochartstring) | Returns the bars series as a string formatted as the series would be displayed in the user interface |
-

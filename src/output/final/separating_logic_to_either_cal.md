@@ -3,7 +3,7 @@ title: "Separating Logic to Either Calculate Once on Bar Close or on Every Tick"
 pathName: /docs/desktop/separating_logic_to_either_cal
 ---
 
-Depending on your trade ideas, the timing of entries and exits could be crucial. Sometimes waiting 30 seconds for a bar to close is too long when you are trying to exit a position. 
+Depending on your trade ideas, the timing of entries and exits could be crucial. Sometimes waiting 30 seconds for a bar to close is too long when you are trying to exit a position.
 
 To address this you could select your strategy to calculate on every single tick, but this may impact your entry timings. For example, crossover entries could flip back and forth making it difficult to place entry orders. If you are facing this issue, it is possible to separate out parts of your strategy logic to calculate on every single tick and other parts to calculate once at the end of each bar.
 
@@ -26,4 +26,3 @@ To address this you could select your strategy to calculate on every single tick
 3. Select the downloaded file.
 
 [SampleEnterOnceExitEveryTick_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleEnterOnceExitEveryTick_NT8.zip)
-

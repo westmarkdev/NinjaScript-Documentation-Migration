@@ -16,4 +16,3 @@ All internal NinjaScript indicators and sample strategies come with full source 
 |  |
 | --- |
 | › [Level 1](/docs/desktop/beginner_-_simple_ma_cross_ove) - Simple MA Cross Over (Demonstrates strategy construction by wizard and scripting) {% <br> %} › [Level 2](/docs/desktop/intermediate_-_rsi_with_stop_l) - RSI with Stop Loss & Profit Target (scripting only) |
-

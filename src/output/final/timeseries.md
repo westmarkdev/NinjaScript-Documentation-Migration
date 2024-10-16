@@ -22,4 +22,3 @@ In most cases, you will access the historical time series using a core event han
 |  |  |
 | --- | --- |
 | Times | Holds an array of ISeries<datetime> objects holding historical bar times. |
-

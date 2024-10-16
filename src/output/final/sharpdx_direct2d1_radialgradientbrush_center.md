@@ -20,4 +20,3 @@ A [SharpDX.Vector2](/docs/desktop/sharpdx_vector2) representing the center of th
 ## Syntax
 
 <radialgradientbrush>.Center
-

@@ -14,6 +14,7 @@ Gets the font weight of the text.
 (See also [unmanaged API documentation](https://msdn.microsoft.com/en-us/library/dd316652.aspx))
 
 {% callout type="note" %}
+
 1. Weight differences are generally differentiated by an increased stroke or thickness that is associated with a given character in a typeface, as compared to a "normal" character from that same typeface.  
 2. Not all weights are available for all typefaces. When a weight is not available for a typeface, the closest matching weight is returned.  
 3. Font weight values less than 1 or greater than 999 are considered invalid, and they are rejected by font API functions.
@@ -48,4 +49,3 @@ Possible values are:
 | ExtraBlack | Predefined font weight: Extra-black (950). |
 | UltraBlack | Predefined font weight: Ultra-black (950). |
 | SemiLight | Predefined font weight: Normal (400). |
-

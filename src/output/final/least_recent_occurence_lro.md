@@ -22,6 +22,7 @@ LRO(Func<bool> condition, int instance, int lookBackPeriod)
 ```
 
 {% callout type="warning" %}
+
 1. The "instance" parameter MUST be greater than 0.  
 2. The "lookBackPeriod" parameter MUST be greater than 0.  
 3. Please check the Log tab for any other exceptions that may be thrown by the condition function parameter.

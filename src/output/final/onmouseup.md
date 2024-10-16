@@ -43,4 +43,3 @@ public override void OnMouseUp(ChartControl chartControl, ChartPanel chartPanel,
         DrawingState = DrawingState.Normal;
 }
 ```
-

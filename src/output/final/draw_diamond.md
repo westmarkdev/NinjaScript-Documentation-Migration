@@ -62,4 +62,3 @@ The size of the diamond is tied to the chart's BarWidth and thus will scale auto
 // Paints a red diamond on the current bar 1 tick below the low
 Draw.Diamond(this, "tag1", true, 0, Low[0] - TickSize, Brushes.Red);
 ```
-

@@ -20,4 +20,3 @@ A [SharpDX.Direct2D1.CapStyle](/docs/desktop/sharpdx_direct2d1_capstyle) value t
 ## Syntax
 
 <strokestyle>.EndCap
-

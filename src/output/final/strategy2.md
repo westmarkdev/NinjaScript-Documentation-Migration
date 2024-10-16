@@ -27,4 +27,3 @@ pathName: /docs/desktop/strategy2
 › [Using OnOrderUpdate() and OnExecution() methods to submit protective orders](/docs/desktop/using_onorderupdate_and_onexec)  
 › [Using IsRising and IsFalling conditions in the Strategy Builder](/docs/desktop/using_isrising_and_isfalling_c)  
 › [Using trade performance statistics for money management](/docs/desktop/using_trade_performance_statis)  
-

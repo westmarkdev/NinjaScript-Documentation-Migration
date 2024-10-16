@@ -61,4 +61,3 @@ private void OnMarketDepthUpdate(object sender, Data.MarketDepthEventArgs e)
         Print(string.Format("The most recent ask change is {0} {1}", e.Price, e.Volume));
 }
 ```
-

@@ -20,4 +20,3 @@ A [SharpDX.Direct2D1.AntialiasMode](/docs/desktop/sharpdx_direct2d1_antialiasmod
 ## Syntax
 
 RenderTarget.AntialiasMode
-

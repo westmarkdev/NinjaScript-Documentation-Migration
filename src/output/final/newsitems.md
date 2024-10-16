@@ -69,4 +69,3 @@ public class MyAddOnTab : NTTabPage
     // Other required NTTabPage members left out for demonstration purposes. Be sure to add them in your own code.
 }
 ```
-

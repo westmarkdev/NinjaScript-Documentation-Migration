@@ -27,4 +27,3 @@ pathName: /docs/desktop/indicator2
 › [Using System.IO File properties to write to and read from a text file](/docs/desktop/using_system_io_file_propertie)  
 › [Using Try-Catch Blocks](/docs/desktop/using_try-catch_blocks)  
 › [Creating Chart WPF (UI) Modifications from an Indicator](creating-chart-wpf-(ui)-modifi.htm)  
-

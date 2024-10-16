@@ -8,11 +8,12 @@ pathName: /docs/desktop/onbarupdate
 An event driven method which is called whenever a bar is updated. The frequency in which OnBarUpdate is called will be determined by the "[Calculate](/docs/desktop/calculate)" property. OnBarUpdate() is the method where all of your script's core bar based calculation logic should be contained.
 
 {% callout type="note" %}
-• For [multi-timeframe and instrument scripts](/docs/desktop/multi-time_frame__instruments), the OnBarUpdate method is called for each Bars object of a strategy. You MUST filter for the exact bar update events using the "[BarsInProgress](/docs/desktop/barsinprogress)" property you want your system logic to execute against. 
+• For [multi-timeframe and instrument scripts](/docs/desktop/multi-time_frame__instruments), the OnBarUpdate method is called for each Bars object of a strategy. You MUST filter for the exact bar update events using the "[BarsInProgress](/docs/desktop/barsinprogress)" property you want your system logic to execute against.
 
-• Hosted indicators will need to be accessed by the hosting script to ensure OnBarUpdate functionality. This can be done by: 
-1) Calling [Update](/docs/desktop/update) on the hosted indicator within the host script, 
-2) Including a plot in the hosted indicator and accessing the plot in the host script, 
+• Hosted indicators will need to be accessed by the hosting script to ensure OnBarUpdate functionality. This can be done by:
+
+1) Calling [Update](/docs/desktop/update) on the hosted indicator within the host script,
+2) Including a plot in the hosted indicator and accessing the plot in the host script,
 3) Including a plot in the hosted indicator and adding the indicator to the chart with [AddChartIndicator](/docs/desktop/addchartindicator) (strategies only)
 {% /callout %}
 
@@ -65,4 +66,3 @@ protected override void OnBarUpdate()
         Print("The current bar's low price is greater");
 }
 ```
-

@@ -47,4 +47,3 @@ protected override void OnOrderTrace(DateTime timestamp, string message)
 ```
 
 Additional reference code samples are available in the NinjaScript Educational Resources section of our support forum.
-

@@ -42,4 +42,3 @@ struct Matrix3x2
 | Matrix3x2.Rotation(float angle) | Creates a matrix that rotates.  |
 | Matrix3x2.Scaling(float scale) | Creates a matrix that uniformly scales along all three axes.  |
 | Translation([Vector2](/docs/desktop/sharpdx_vector2) value) | Creates a translation matrix using the specified offsets.  |
-

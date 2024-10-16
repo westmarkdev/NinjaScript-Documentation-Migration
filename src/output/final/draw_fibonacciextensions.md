@@ -48,4 +48,3 @@ Draw.FibonacciExtensions(NinjaScriptBase owner, string tag, bool isAutoScale, in
 // Draws a Fibonacci extension
 Draw.FibonacciExtensions(this, "tag1", true, 4, Low[4], 3, High[3], 1, Low[1]);
 ```
-

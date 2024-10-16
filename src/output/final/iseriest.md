@@ -64,4 +64,3 @@ protected override void OnBarUpdate()
         Plot0[0] = Input[0];
 }
 ```
-

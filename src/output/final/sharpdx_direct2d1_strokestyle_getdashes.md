@@ -33,4 +33,3 @@ This method does not return a value.
 | --- | --- |
 | dashes | A float pointer to an array that will receive the dash pattern. The array must be able to contain at least as many elements as specified by dashesCount. You must allocate storage for this array. |
 | dashesCount | The int number of dashes to copy. If this value is less than the number of dashes in the stroke style's dashes array, the returned dashes are truncated to dashesCount. If this value is greater than the number of dashes in the stroke style's dashes array, the extra dashes are set to 0.0f. To obtain the actual number of dashes in the stroke style's dashes array, use the [DashesCount](/docs/desktop/sharpdx_direct2d1_strokestyle_dashescount) property. |
-

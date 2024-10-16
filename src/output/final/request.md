@@ -48,4 +48,3 @@ barsRequest.Request(new Action<BarsRequest, ErrorCode, string>((bars, errorCode,
     }
 }));
 ```
-

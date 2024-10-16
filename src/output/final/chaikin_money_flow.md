@@ -16,7 +16,7 @@ ChaikinMoneyFlow(int period)
 ChaikinMoneyFlow(ISeries<double> input, int period)
 ```
 
-Returns default value 
+Returns default value
 
 ```csharp
 ChaikinMoneyFlow(int period)[int barsAgo]
@@ -45,4 +45,3 @@ Print("The current ChaikinMoneyFlow value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

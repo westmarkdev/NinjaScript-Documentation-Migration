@@ -24,4 +24,3 @@ The properties in this class should NOT be accessed within the [OnStateChange()]
 | MarketData | Instrument thread specific [MarketData](/docs/desktop/marketdata) events |
 | MarketDepth | Instrument thread specific [MarketDepth](/docs/desktop/marketdepth) events |
 | Dispatcher | A Dispatcher used for subscribing to Instrument related events. See [Multi-Threading Considerations](/docs/desktop/multi-threading). |
-

@@ -27,7 +27,7 @@ A common technique used by discretionary traders is scaling in and scaling out o
 
 - [SetStopLoss()](/docs/desktop/setstoploss)
 
-* Entry handling properties can be either programmatically set or set through the Strategy dialog window.
+- Entry handling properties can be either programmatically set or set through the Strategy dialog window.
 
 ## Import instructions
 
@@ -38,4 +38,3 @@ A common technique used by discretionary traders is scaling in and scaling out o
 3. Select the downloaded file
 
 [SampleScaleOut_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleScaleOut_NT8.zip)
-

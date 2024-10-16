@@ -30,4 +30,3 @@ TextFixed myTF = Draw.TextFixed(this, "tag1", "Text to draw", TextPosition.TopRi
 // Change the object's TextPosition
 myTF.TextPosition = TextPosition.Center;
 ```
-

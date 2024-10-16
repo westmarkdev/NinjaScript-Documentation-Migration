@@ -34,4 +34,3 @@ private void OnButtonClick(object sender, RoutedEventArgs e)
     }
 }
 ```
-

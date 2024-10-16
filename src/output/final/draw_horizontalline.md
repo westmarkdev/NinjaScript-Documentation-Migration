@@ -54,4 +54,3 @@ Draw.HorizontalLine(NinjaScriptBase owner, string tag, double y, bool isGlobal, 
 // Draws a horizontal line
 Draw.HorizontalLine(this, "tag1", 1000, Brushes.Black);
 ```
-

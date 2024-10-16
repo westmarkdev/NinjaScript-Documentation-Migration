@@ -45,4 +45,3 @@ RenderTarget.DrawEllipse(Ellipse ellipse, Brush brush, float strokeWidth, Stroke
 {% callout type="tip" %}
 For optimal results, ensure that the ellipse is correctly defined in device-independent pixels to maintain clarity across various screen resolutions.
 {% /callout %}
-

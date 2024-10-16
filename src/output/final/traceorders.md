@@ -32,6 +32,7 @@ protected override void OnStateChange()
 ```
 
 {% callout type="tip" %}
+
 1. See [this](/docs/desktop/traceorders2) article for more examples of how to utilize this property.  
 2. You can override the default output by using [OnOrderTrace()](/docs/desktop/onordertrace) in your strategy.
 {% /callout %}

@@ -52,4 +52,3 @@ Full list of [members](https://msdn.microsoft.com/en-us/library/system.string(v=
 string myString = "ninjatrader";
 Print("The following word is in uppercase " + myString.ToUpper());
 ```
-

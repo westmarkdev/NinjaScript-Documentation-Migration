@@ -13,13 +13,10 @@ Gets or sets the degree of opacity of this brush.
 
 (See also [unmanaged API documentation](https://msdn.microsoft.com/en-us/library/dd371176.aspx))
 
-
 ## Property Value
 
 A float value between zero and 1 that indicates the opacity of the brush. This value is a constant multiplier that linearly scales the alpha value of all pixels filled by the brush. The opacity values are clamped in the range 0–1 before they are multiplied together.
 
-
 ## Syntax
 
 `<solidcolorbrush>.Opacity`  
-

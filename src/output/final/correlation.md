@@ -53,4 +53,3 @@ If the correlation series does not plot during a time the input series plots, a 
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

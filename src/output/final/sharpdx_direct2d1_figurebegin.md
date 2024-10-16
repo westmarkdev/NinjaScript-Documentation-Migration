@@ -25,4 +25,3 @@ enum FigureBegin
 | --- | --- |
 | Filled | Indicates the figure will be filled by the FillGeometry() method |
 | Hollow | Indicates the figure will not be filled by the FillGeometry() method and will only consist of an outline. Moreover, the bounds of a hollow figure are zero. FigureBegin.Hollow should be used for stroking, or for other geometry operations. |
-

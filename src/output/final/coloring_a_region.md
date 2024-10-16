@@ -28,4 +28,3 @@ Other methods and properties of interest include:
 3. Select the downloaded file  
 
 [SampleDrawRegion_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleDrawRegion_NT8.zip)  
-

@@ -34,6 +34,7 @@ The "Name" parameter MUST be unique for each property of a particular object. Sh
 | Order | An `int` which sets the sequence the property is categorized in relation to other properties in the UI. |
 
 {% callout type="tip" %}
+
 1. Multiple named parameters can be written separated by a comma during a single declaration as demonstrated in the example below. 2. You may have noticed the default NinjaTrader types such as indicators or strategies use a "ResourceType = typeof(Custom.Resource)" property in the DisplayAttribute. This is done for localization purposes, so the default NinjaTrader UI translates to other supported international languages, but is not required for your custom NinjaScript types. The ResourceType property can be safely ignored and left out in your custom development.
 {% /callout %}
 
@@ -49,4 +50,3 @@ public int MyPeriod
 
 #endregion
 ```
-

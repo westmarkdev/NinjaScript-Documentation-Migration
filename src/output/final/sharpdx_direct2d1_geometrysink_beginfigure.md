@@ -29,4 +29,3 @@ This method does not return a value.
 | --- | --- |
 | vector2 | The [SharpDX.Vector2](/docs/desktop/sharpdx_vector2) at which to begin the new figure. |
 | figureBegin | The [SharpDX.Direct2D1.FigureBegin](/docs/desktop/sharpdx_direct2d1_figurebegin) which determines whether the new figure should be hollow or filled. |
-

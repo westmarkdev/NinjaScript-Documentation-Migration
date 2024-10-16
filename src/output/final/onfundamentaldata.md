@@ -46,8 +46,8 @@ protected override void OnFundamentalData(FundamentalDataEventArgs fundamentalDa
 ```
 
 {% callout type="tip" %}
+
 1. With [multi-time frame and instrument strategies](/docs/desktop/multi-time_frame__instruments), OnFundamentalData() will be called for all unique instruments in your strategy. Use the [BarsInProgress](/docs/desktop/barsinprogress) to filter the OnFundamentalData() method for a specific instrument.
 
 2. Do not leave an unused OnFundamentalData() method declared in your NinjaScript object. This will unnecessarily attach a data stream to your script which uses unnecessary CPU cycles.
 {% /callout %}
-

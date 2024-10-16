@@ -18,4 +18,3 @@ The following section documents properties and methods used to trigger alerts fr
 | [RearmAlert()](/docs/desktop/rearmalert) | Rearms an alert created via the [Alert()](/docs/desktop/alert) method |
 | [SendMail()](/docs/desktop/sendmail) | Sends an email message through the default email sharing service.  |
 | [Share()](/docs/desktop/share) | Sends a message or screen shot to a social network or Share Service.   |
-

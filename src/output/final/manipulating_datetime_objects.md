@@ -27,4 +27,3 @@ An essential element of any trader's strategies or indicators is time. You may f
 3. Select the downloaded file
 
 [SampleDateTimeFunctions_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleDateTimeFunctions_NT8.zip)
-

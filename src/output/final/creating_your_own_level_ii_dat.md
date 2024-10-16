@@ -36,4 +36,3 @@ Level II data is important for the momentum trader. It allows them to determine 
 3. Select the downloaded file
 
 [SampleLevel2Book_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleLevel2Book_NT8.zip)
-

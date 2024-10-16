@@ -73,9 +73,10 @@ protected override void OnBarUpdate()
 ```
 
 {% callout type="tip" %}
-- This method is ignored if a short position does not exist. 
-- It is helpful to provide a signal name if your strategy has multiple exit points to help identify your exits on a chart. 
-- You can tie an exit to an entry by providing the entry signal name in the parameter "fromEntrySignal". 
-- If you do not specify a quantity the entire position is exited rendering your strategy flat. 
+
+- This method is ignored if a short position does not exist.
+- It is helpful to provide a signal name if your strategy has multiple exit points to help identify your exits on a chart.
+- You can tie an exit to an entry by providing the entry signal name in the parameter "fromEntrySignal".
+- If you do not specify a quantity the entire position is exited rendering your strategy flat.
 - If you do not specify a "fromEntrySignal" parameter the entire position is exited rendering your strategy flat.
 {% /callout %}

@@ -28,4 +28,3 @@ This method does not return a value.
 |  |  |
 | --- | --- |
 | arc | The [SharpDX.Direct2D1.ArcSegment](/docs/desktop/sharpdx_direct2d1_arcsegment) segment to add to the figure. |
-

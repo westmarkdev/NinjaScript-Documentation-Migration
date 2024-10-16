@@ -28,4 +28,3 @@ A bool value which is true if the area filled by the geometry contains point; ot
 |  |  |
 | --- | --- |
 | point | The [SharpDX.Vector2](/docs/desktop/sharpdx_vector2) point to test. |
-

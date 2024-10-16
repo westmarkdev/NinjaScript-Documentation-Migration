@@ -9,7 +9,6 @@ The Range indicator compares the intraday range (high - low) to the inter-day (c
 
 The Range Indicator was developed by Jack Weinberg and was introduced in his article in the June, 1995 issue of Technical Analysis of Stocks & Commodities magazine.
 
-
 ## Syntax
 
 ```csharp
@@ -23,7 +22,6 @@ RIND(ISeries<double> input, int periodQ, int smooth)[int barsAgo]
 
 `double`; Accessing this method via an index value [int barsAgo] returns the indicator value of the referenced bar.
 
-
 ## Parameters
 
 |  |  |
@@ -31,7 +29,6 @@ RIND(ISeries<double> input, int periodQ, int smooth)[int barsAgo]
 | input | Indicator source data ([Valid Input Data for Indicator](/docs/desktop/valid_input_data_for_indicator)) |
 | periodQ | The number of bars to include in the calculation for the short term stochastic range lookback |
 | smooth | The number of bars to include for the EMA smoothing of the indicator |
-
 
 ## Example
 

@@ -64,4 +64,3 @@ public Series<double> Lower
     get { return Values[1]; }
 }
 ```
-

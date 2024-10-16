@@ -8,6 +8,7 @@ pathName: /docs/desktop/atmstrategycancelentryorder
 Cancels the specified entry order determined by the string "orderId" parameter.
 
 {% callout type="note" %}
+
 1. This method is intended ONLY for orders submitted as [Atm Entry Orders](/docs/desktop/atmstrategycreate) and assumes the [OrderState](/docs/desktop/getatmstrategyentryorderstatus) is NOT terminal (i.e., Cancelled, Filled, Rejected, Unknown).
 2. If the specified order does not exist, the method returns false and an error is logged.
 {% /callout %}
@@ -49,4 +50,3 @@ protected override void OnBarUpdate()
     }
 }
 ```
-

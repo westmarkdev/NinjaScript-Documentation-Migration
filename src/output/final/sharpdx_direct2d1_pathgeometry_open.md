@@ -31,4 +31,3 @@ A [SharpDX.Direct2D1.GeometrySink](/docs/desktop/sharpdx_direct2d1_geometrysink)
 ## Parameters
 
 This method does not accept any parameters.
-

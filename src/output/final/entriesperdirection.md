@@ -27,7 +27,7 @@ EntriesPerDirection
 
 ## Examples
 
-## If an open position already exists, subsequent `EnterLong()` calls are ignored.
+## If an open position already exists, subsequent `EnterLong()` calls are ignored
 
 ```csharp
 // Example #1
@@ -50,7 +50,7 @@ protected override void OnBarUpdate()
 }
 ```
 
-## `EnterLong()` will be processed once for each uniquely named entry.
+## `EnterLong()` will be processed once for each uniquely named entry
 
 ```csharp
 // Example #2
@@ -69,4 +69,3 @@ protected override void OnBarUpdate()
         EnterLong("RSI Cross Entry");
 }
 ```
-

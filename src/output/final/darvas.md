@@ -9,7 +9,6 @@ A trading strategy that was developed in 1956 by former ballroom dancer Nicolas 
 
 ... Courtesy of [Investopedia](http://www.investopedia.com/terms/d/darvasboxtheory.asp)
 
-
 ## Syntax
 
 ```csharp
@@ -40,18 +39,15 @@ Darvas().Lower[int barsAgo]
 Darvas(ISeries<double> input).Lower[int barsAgo]
 ```
 
-
 ## Return Value
 
 `double`; Accessing this method via an index value `[int barsAgo]` returns the indicator value of the referenced bar.
-
 
 ## Parameters
 
 |  |  |
 | --- | --- |
 | input | Indicator source data ([Valid Input Data for Indicator](/docs/desktop/valid_input_data_for_indicator)) |
-
 
 ## Example
 
@@ -61,8 +57,6 @@ double value = Darvas().Upper[0];
 Print("The current upper Darvas value is " + value.ToString());
 ```
 
-
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

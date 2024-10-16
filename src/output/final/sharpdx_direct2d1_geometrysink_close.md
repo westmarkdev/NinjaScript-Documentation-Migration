@@ -28,4 +28,3 @@ This method does not return a value.
 ## Parameters
 
 This method does not accept any parameters.
-

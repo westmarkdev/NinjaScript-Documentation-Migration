@@ -43,4 +43,3 @@ protected override void OnBarUpdate()
         return;
 }
 ```
-

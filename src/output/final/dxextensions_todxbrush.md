@@ -66,4 +66,3 @@ public string TextBrushSerialize
     set { TextBrush = Serialize.StringToBrush(value); }
 }
 ```
-

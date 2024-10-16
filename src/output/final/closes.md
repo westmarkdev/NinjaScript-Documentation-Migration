@@ -37,4 +37,3 @@ protected override void OnBarUpdate()
         Print("The primary bar's close price is greater");
 }
 ```
-

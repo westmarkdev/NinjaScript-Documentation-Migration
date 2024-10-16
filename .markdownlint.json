@@ -1,5 +1,6 @@
 {
   "heading-style": { "style": "atx" },
   "no-trailing-spaces": true,
-  "line-length": false
+  "line-length": false,
+  "no-inline-html": false
 }

@@ -37,4 +37,3 @@ protected override void OnBarUpdate()
     BackBrushesAll[1] = Brushes.Orange;
 }
 ```
-

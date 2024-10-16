@@ -20,4 +20,3 @@ A [SharpDX.Matrix3x2](/docs/desktop/sharpdx_matrix3x2)
 ## Syntax
 
 RenderTarget.Transform
-

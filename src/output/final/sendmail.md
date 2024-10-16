@@ -8,6 +8,7 @@ pathName: /docs/desktop/sendmail
 Sends an email message through the default email sharing service.
 
 {% callout type="note" %}
+
 1. This method can only be called once the [State](/docs/desktop/state) has reached State.Realtime. Calls to this method in any other State will be silently ignored (in contrast to the implementation for [AddOns](/docs/desktop/alert_and_debug_concepts)).
 2. You MUST configure an email account as a default "Mail" Share Service from the [General Options](/docs/desktop/general_section).
 {% /callout %}

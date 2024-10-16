@@ -27,4 +27,3 @@ Possible values are:
 
 <textlayout>.FlowDirection
 --------------------------  
-

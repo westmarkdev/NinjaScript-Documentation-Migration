@@ -54,4 +54,3 @@ protected override void OnOrderUpdate(Order order, double limitPrice, double sto
     }
 }
 ```
-

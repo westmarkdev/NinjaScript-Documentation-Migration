@@ -41,4 +41,3 @@ MovingAverageRibbon(ISeries<double> input, RibbonMAType movingAverage, int baseP
 double value = MovingAverageRibbon(RibbonMAType.Exponential, 10, 10).MovingAverage3[0];
 Print("The current 3rd moving average's value is " + value.ToString());
 ```
-

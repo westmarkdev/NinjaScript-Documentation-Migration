@@ -9,7 +9,7 @@ An index value of the current Bars object that has called the [OnBarUpdate()](/d
 
 {% callout type="note" %}
 
-1. In a single Bars script, this property will always return an index value of 0 representing the primary Bars and instrument the script is running on. 
+1. In a single Bars script, this property will always return an index value of 0 representing the primary Bars and instrument the script is running on.
 2. See additional information on running [multi-bars scripts](/docs/desktop/multi-time_frame__instruments).
 
 {% /callout %}
@@ -50,4 +50,3 @@ protected override void OnBarUpdate()
     }
 }
 ```
-

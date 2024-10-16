@@ -8,8 +8,8 @@ pathName: /docs/barsrequest_mergepolicy
 Determines the merge policy of the bars request.
 
 {% callout type="note" %}
-&bull; This property is ONLY applicable to Futures contracts {% <br> %} 
-&bull; General information regarding merge policies can be found from the [Market Data Configuration](/docs/desktop/merge_policy) section {% <br> %} 
+&bull; This property is ONLY applicable to Futures contracts {% <br> %}
+&bull; General information regarding merge policies can be found from the [Market Data Configuration](/docs/desktop/merge_policy) section {% <br> %}
 &bull; For an Instruments configured merge policy, please see the [MasterInstrument.MergePolicy](/docs/desktop/merge_policy) property
 {% /callout %}
 
@@ -45,4 +45,3 @@ useGlobalRequest.Request(new Action<BarsRequest, ErrorCode, string>((barsRequest
 // dispose of the bars request if we are done with it
 useGlobalRequest.Dispose();
 ```
-

@@ -21,7 +21,6 @@ The properties listed below are accessible from an instance of AccountItemEventA
 | Time | A DateTime object representing the time at which the change occurred |
 | Value | The new value of the updated AccountItems |
 
-
 ## Example
 
 ```csharp

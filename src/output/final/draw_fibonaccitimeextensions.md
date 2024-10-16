@@ -42,4 +42,3 @@ Draw.FibonacciTimeExtensions(NinjaScriptBase owner, string tag, bool isAutoScale
 // Draws a Fibonacci time extension object
 Draw.FibonacciTimeExtensions(this, "tag1", false, 10, Low[10], 0, High[0]);
 ```
-

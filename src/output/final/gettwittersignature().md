@@ -33,4 +33,3 @@ MethodName(int input)
 // Example usage of MethodName
 bool result = MethodName(1);
 ```
-

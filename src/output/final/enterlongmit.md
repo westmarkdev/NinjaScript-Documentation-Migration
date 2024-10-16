@@ -56,4 +56,3 @@ protected override void OnBarUpdate()
         EnterLongMIT(GetCurrentBid() + TickSize, "SMA Cross Entry");
 }
 ```
-

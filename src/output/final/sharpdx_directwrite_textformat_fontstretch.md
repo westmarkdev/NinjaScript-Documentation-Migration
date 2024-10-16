@@ -14,7 +14,8 @@ Gets the font stretch of the text.
 (See also [unmanaged API documentation](https://msdn.microsoft.com/en-us/library/dd316646.aspx))
 
 {% callout type="note" %}
-1. A font stretch describes the degree to which a font form is stretched from its normal aspect ratio, which is the original width to height ratio specified for the glyphs in the font. 
+
+1. A font stretch describes the degree to which a font form is stretched from its normal aspect ratio, which is the original width to height ratio specified for the glyphs in the font.
 2. Values other than the ones defined in the enumeration are considered to be invalid, and are rejected by font API functions.
 {% /callout %}
 
@@ -41,4 +42,3 @@ Possible values are:
 | Expanded | Predefined font stretch: Expanded (7). |
 | ExtraExpanded | Predefined font stretch: Extra-expanded (8). |
 | UltraExpanded | Predefined font stretch: Ultra-expanded (9). |
-

@@ -24,4 +24,3 @@ The [SharpDX.GradientStopCollection](/docs/desktop/sharpdx_direct2d1_gradientsto
 ## Syntax
 
 <radialgradientbrush>.GradientStopCollection
-

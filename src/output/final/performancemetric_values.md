@@ -44,4 +44,3 @@ public double[] Values
     private set;
 }
 ```
-

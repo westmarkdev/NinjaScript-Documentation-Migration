@@ -18,7 +18,7 @@ Position.GetUnrealizedProfitLoss(PerformanceUnit unit, [double price])
 ```
 
 {% callout type="note" %}
-• If no double argument is provided in the call, the current (real-time) Last price will be substituted in. In case Tools > Options > Trading > 'Use last price for Pnl' is unchecked or the instrument type is Forex / CFD the bid (for a long position) / ask (for a short position) would be used as a substitute. 
+• If no double argument is provided in the call, the current (real-time) Last price will be substituted in. In case Tools > Options > Trading > 'Use last price for Pnl' is unchecked or the instrument type is Forex / CFD the bid (for a long position) / ask (for a short position) would be used as a substitute.
 
 • For back-testing a double price to compare against should be provided like in our example below.
 {% /callout %}
@@ -40,4 +40,3 @@ protected override void OnBarUpdate()
         Print("Open PnL: " + Position.GetUnrealizedProfitLoss(PerformanceUnit.Points, Close[0]));
 }
 ```
-

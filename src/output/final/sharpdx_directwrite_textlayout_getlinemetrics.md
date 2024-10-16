@@ -26,4 +26,3 @@ A [LineMetrics](/docs/desktop/sharpdx_directwrite_linemetrics)[] contains a poin
 ## Parameters
 
 This method does not accept any parameters.
-

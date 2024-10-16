@@ -26,4 +26,3 @@ When debugging and/or printing out order information, this may not be apparent. 
 3. Select the downloaded file.
 
 [SampleRoundToTickSize_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleRoundToTickSize_NT8.zip)
-

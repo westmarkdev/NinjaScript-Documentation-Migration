@@ -20,7 +20,7 @@ A virtual bar object representing the current configured session. Otherwise null
 
 ## Syntax
 
-## The properties below return double values:
+## The properties below return double values
 
 ```csharp
 Bars.GetDayBar(int tradingDaysBack).Open
@@ -61,4 +61,3 @@ protected override void OnBarUpdate()
         Print("The prior trading day's close is: " + Bars.GetDayBar(1).Close);
 }
 ```
-

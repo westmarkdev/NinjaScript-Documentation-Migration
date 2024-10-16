@@ -22,4 +22,3 @@ A string value representing the current font family name.
 ```plaintext
 <textlayout>.FontFamilyName
 ```
-

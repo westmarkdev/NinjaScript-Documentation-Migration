@@ -22,6 +22,7 @@ protected override void OnBarUpdate()
 ```
 
 Translated into English, the code contained within the `OnBarUpdate()` method above reads:
+
 - If the fast simple moving average crosses above the slow simple moving average within the last bar, go long.
 - If the fast simple moving average crosses below the slow simple moving average within the last bar, go short.
 
@@ -32,4 +33,3 @@ To accomplish this we used the following methods:
 - [SMA()](/docs/desktop/moving_average_-_simple_sma) - Returns the value of a simple moving average.
 - [EnterLong()](/docs/desktop/enterlong) - Enters a market order long.
 - [EnterShort()](/docs/desktop/entershort) - Enters a market order short.
-

@@ -33,4 +33,3 @@ struct RadialGradientBrushProperties
 | GradientOriginOffset | A [SharpDX.Vector2](/docs/desktop/sharpdx_vector2) representing brush's coordinate space, the offset of the gradient origin relative to the gradient ellipse's center. |
 | RadiusX | A float in the brush's coordinate space, the x-radius of the gradient ellipse. |
 | RadiusY | A float in the brush's coordinate space, the y-radius of the gradient ellipse. |
-

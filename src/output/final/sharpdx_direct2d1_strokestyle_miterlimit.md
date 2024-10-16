@@ -13,13 +13,10 @@ Retrieves the limit on the ratio of the miter length to half the stroke's thickn
 
 (See also [unmanaged API documentation](https://msdn.microsoft.com/en-us/library/dd372242.aspx))
 
-
 ## Property Value
 
 A positive float value greater than or equal to 1.0f that describes the limit on the ratio of the miter length to half the stroke's thickness.
 
-
 ## Syntax
 
 <strokestyle>.MiterLimit
-

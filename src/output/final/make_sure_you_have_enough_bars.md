@@ -71,4 +71,3 @@ protected override void OnBarUpdate()
 ```
 
 The resolution above would be used in a [Multi Time Frame](/docs/desktop/multi-time_frame__instruments) script. Since `OnBarUpdate()` processes multiple data series, we need to make sure each Data Series we reference has processed enough bars.
-

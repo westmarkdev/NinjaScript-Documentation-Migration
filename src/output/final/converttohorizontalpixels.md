@@ -40,4 +40,3 @@ protected override void OnRender(ChartControl chartControl, ChartScale chartScal
     devicePixelX = ChartingExtensions.ConvertToHorizontalPixels(500, ChartControl.PresentationSource);
 }
 ```
-

@@ -42,4 +42,3 @@ protected override void OnWindowCreated(Window window)
     myNewMenuItem.Click += OnMenuItemClick;
 }
 ```
-

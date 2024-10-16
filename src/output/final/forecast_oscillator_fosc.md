@@ -47,4 +47,3 @@ if (FOSC(14)[0] > 0)
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

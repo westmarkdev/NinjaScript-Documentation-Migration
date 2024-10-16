@@ -47,4 +47,3 @@ protected override void OnBarUpdate()
         EnterLong();
 }
 ```
-

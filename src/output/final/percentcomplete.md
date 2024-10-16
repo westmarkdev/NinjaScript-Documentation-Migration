@@ -9,7 +9,7 @@ Returns a value indicating the percentage complete of the real-time bar processi
 
 {% callout type="note" %}
 
-1. Since a historical bar is complete, values during State.Historical should be ignored (also the case with [TickReplay](/docs/desktop/developing_for__tick_replay) bars). 
+1. Since a historical bar is complete, values during State.Historical should be ignored (also the case with [TickReplay](/docs/desktop/developing_for__tick_replay) bars).
 
 2. Some [BarsTypes](/docs/desktop/bars_type) may not be compatible with the PercentComplete property. In these cases, a value of 0 always returns (e.g., Range, Renko, Point & Figure, Kagi, LineBreak, and some other 3rd party bars types).
 

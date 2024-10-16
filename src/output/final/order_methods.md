@@ -19,4 +19,3 @@ NinjaScript provides several approaches you can use for order placement within y
 {% callout type="tip" %}
 Choose the approach that better fits your strategy needs and ensure that you are familiar with the order methods available within that approach.
 {% /callout %}
-

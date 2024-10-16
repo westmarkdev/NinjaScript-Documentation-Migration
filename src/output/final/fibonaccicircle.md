@@ -25,4 +25,3 @@ FibonacciCircle myFibCirc = Draw.FibonacciCircle(this, "tag1", true, 10, Low[10]
 // Ensure that text is being displayed on the Drawing Object
 myFibCirc.IsTextDisplayed = true;
 ```
-

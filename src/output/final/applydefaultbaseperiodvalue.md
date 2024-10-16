@@ -46,4 +46,3 @@ public override void ApplyDefaultBasePeriodValue(BarsPeriod period)
     }
 }
 ```
-

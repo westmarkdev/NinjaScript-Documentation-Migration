@@ -43,4 +43,3 @@ Log("This is a log message", LogLevel.Information);
 // Generates a log message with a notification window
 Log("This will generate a pop-up notification window as well", LogLevel.Alert);
 ```
-

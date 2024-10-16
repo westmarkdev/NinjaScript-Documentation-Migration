@@ -36,4 +36,3 @@ protected override void OnFundamentalData(FundamentalDataEventArgs fundamentalDa
 1. Not all connectivity providers support all FundamentalDataTypes.
 2. EarningsPerShare on eSignal is a trailing twelve months value. On IQFeed, it is the last quarter's value.
 3. RevenuePerShare is a trailing twelve months value.
-

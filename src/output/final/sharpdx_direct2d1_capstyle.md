@@ -25,4 +25,3 @@ enum CapStyle
 | Square | Half of a square that has a length equal to the line thickness. |
 | Round | A semicircle that has a diameter equal to the line thickness. |
 | Triangle | An isosceles right triangle whose hypotenuse is equal in length to the thickness of the line. |
-

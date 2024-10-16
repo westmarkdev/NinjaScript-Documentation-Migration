@@ -26,4 +26,3 @@ A [SharpDX.RectangleF](/docs/desktop/sharpdx_rectanglef) which contains the boun
 ## Parameters
 
 This method does not accept any parameters.
-

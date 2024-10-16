@@ -47,9 +47,11 @@ protected override void OnStateChange()
 | ```csharp
 protected override void OnBarUpdate()
 {
+
     // only process real-time OnBarUpdate events
     if (State == State.Historical)
         return;
     // rest of logic
 }
+
 ``` |

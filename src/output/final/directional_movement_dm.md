@@ -59,4 +59,3 @@ Print("The current +DI value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

@@ -5,7 +5,7 @@ pathName: /docs/desktop/setzorder
 
 ## Definition
 
-Used to assign a unique identifier representing the index in which chart objects are drawn on the chart's Z-axis (front to back ordering). Objects with a higher ZOrder are drawn first. 
+Used to assign a unique identifier representing the index in which chart objects are drawn on the chart's Z-axis (front to back ordering). Objects with a higher ZOrder are drawn first.
 
 {% callout type="note" %}
 

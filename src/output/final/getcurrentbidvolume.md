@@ -8,6 +8,7 @@ pathName: /docs/desktop/getcurrentbidvolume
 Returns the current real-time bid volume.
 
 {% callout type="note" %}
+
 1. When accessed during State.Historical, the [Volume](/docs/desktop/volume) of the evaluated bar series is substituted. To access historical Bid Volumes, please see [Developing for Tick Replay](/docs/desktop/developing_for__tick_replay).
 2. The GetCurrentBidVolume() method runs on the bar series currently updating determined by the [BarsInProgress](/docs/desktop/barsinprogress) property. For [multi-instrument](/docs/desktop/multi-time_frame__instruments) scripts, an additional int "barsSeriesIndex" parameter can be supplied which forces the method to run on a supplementary bar series.
 {% /callout %}
@@ -70,4 +71,3 @@ protected override void OnBarUpdate()
     }
 }
 ```
-

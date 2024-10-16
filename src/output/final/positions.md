@@ -57,4 +57,3 @@ protected override void OnBarUpdate()
         Print("NQ position is " + Position.MarketPosition);
 }
 ```
-

@@ -43,4 +43,3 @@ RenderTarget.DrawRectangle(RectangleF rect, Brush brush, float strokeWidth, Stro
 | rect | The [SharpDX.RectangleF](/docs/desktop/sharpdx_rectanglef) which determines the dimensions of the rectangle to draw, in device-independent pixels.  |
 | strokeStyle | The [SharpDX.Direct2D1.StrokeStyle](/docs/desktop/sharpdx_direct2d1_strokestyle) used to paint, or null to paint a solid stroke. |
 | strokeWidth | A value greater than or equal to 0.0f that specifies the width of the rectangle's stroke. The stroke is centered on the rectangle's outline. |
-

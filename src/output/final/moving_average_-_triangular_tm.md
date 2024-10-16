@@ -15,6 +15,7 @@ TMA(ISeries<double> input, int period)
 ```
 
 Returns default value
+
 ```csharp
 TMA(int period)[int barsAgo]  
 TMA(ISeries<double> input, int period)[int barsAgo]  
@@ -45,4 +46,3 @@ Print("The current TMA value is " + value.ToString());
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

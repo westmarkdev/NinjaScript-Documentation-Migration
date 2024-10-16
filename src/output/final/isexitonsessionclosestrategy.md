@@ -12,9 +12,9 @@ Determines if the strategy will cancel all strategy generated orders on all stra
 This property returns true if the strategy will exit on close; otherwise, false. Default value is set to true.
 
 {% callout type="warning" %}
-• This property should ONLY be set from the [OnStateChange()](/docs/desktop/onstatechange) method during State.SetDefaults or State.Configure. 
-• On historical data, IsExitOnSessionCloseStrategy will cause positions to be exited at the close of the last bar of the session. If you are using a non time-based Bar Type, such as Renko, and have "Break at EOD" set to False on the Data Series, this means that IsExitOnSessionCloseStrategy could trigger after the session close, since the last bar of the session can extend beyond the session close time in this scenario. 
-• Even if you're backtesting with a historical [order fill resolution](/docs/desktop/orderfillresolution) set to be more granular than your base primary series, the ExitOnSessionCloseSeconds will still be tied to the primary higher timeframe series bar. IsExitOnSessionCloseStrategy should not be used in combination with Daily Bars and High Order Fill Resolution since it will cause the position to close at the same time as the daily bar updates (at session close). 
+• This property should ONLY be set from the [OnStateChange()](/docs/desktop/onstatechange) method during State.SetDefaults or State.Configure.
+• On historical data, IsExitOnSessionCloseStrategy will cause positions to be exited at the close of the last bar of the session. If you are using a non time-based Bar Type, such as Renko, and have "Break at EOD" set to False on the Data Series, this means that IsExitOnSessionCloseStrategy could trigger after the session close, since the last bar of the session can extend beyond the session close time in this scenario.
+• Even if you're backtesting with a historical [order fill resolution](/docs/desktop/orderfillresolution) set to be more granular than your base primary series, the ExitOnSessionCloseSeconds will still be tied to the primary higher timeframe series bar. IsExitOnSessionCloseStrategy should not be used in combination with Daily Bars and High Order Fill Resolution since it will cause the position to close at the same time as the daily bar updates (at session close).
 • This property is designed to be only used on intraday strategies.
 {% /callout %}
 
@@ -35,4 +35,3 @@ protected override void OnStateChange()
     }
 }
 ```
-

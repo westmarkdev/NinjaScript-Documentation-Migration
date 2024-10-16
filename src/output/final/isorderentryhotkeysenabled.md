@@ -27,7 +27,6 @@ MethodName(int input)
 | --- | --- |
 | input | An `int` which represents the method input. |
 
-
 ## Examples
 
 ```csharp

@@ -32,4 +32,3 @@ The properties in this class should NOT be accessed within the [OnStateChange()]
 | [Splits](/docs/desktop/splits) | A collection of splits for stock instruments |
 | [TickSize](/docs/desktop/ticksize) | The smallest movement in price configured |
 | [Url](/docs/desktop/url) | A web URL where contract details have been collected |
-

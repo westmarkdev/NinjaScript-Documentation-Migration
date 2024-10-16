@@ -32,4 +32,3 @@ GetValueAt(int input)
 ```csharp
 bool result = GetValueAt(5);
 ```
-

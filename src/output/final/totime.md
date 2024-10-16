@@ -53,4 +53,3 @@ if (ToTime(Time[0]) >= startTime)
     // Strategy logic goes here
 }
 ```
-

@@ -8,6 +8,7 @@ pathName: /docs/desktop/commitment-of-traders-(cot)
 The COT indicator plots weekly data from the Commitment Of Traders report, indicating holdings of different participants in the U.S. futures market.
 
 {% callout type="note" %}
+
 1. Since the underlying COT reports are a weekly figure updated every Friday, it would not be meaningful to run this study outside [Calculate.OnBarClose](/docs/desktop/calculate).
 2. Default values of the 5 hard-coded plots are: 1 - Futures Non Commercial Net, 2 - Futures Commercial Net, 3 - Futures Non Reportable Positions Net, 4 - Futures Open Interest, 5 - Futures Total Net.
 3. To access other reports and report fields, please see the 2nd example below. All fields available could be seen via [Intelliprompt](/docs/desktop/intelliprompt) in the NinjaScript editor.
@@ -84,4 +85,3 @@ else if (State == State.DataLoaded)
 ## Source Code
 
 You can view this indicator method source code by selecting the menu New > NinjaScript Editor > Indicators within the NinjaTrader Control Center window.
-

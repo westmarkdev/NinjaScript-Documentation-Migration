@@ -28,4 +28,3 @@ protected override void OnBarUpdate()
 {% callout type="note" %}
 Additional Access Information: This property can be accessed without a null reference check in the OnBarUpdate() event handler. When the OnBarUpdate() event is triggered, there will always be an Instrument object. Should you wish to access this property elsewhere, check for null reference first. e.g. if (Instrument != null)
 {% /callout %}
-

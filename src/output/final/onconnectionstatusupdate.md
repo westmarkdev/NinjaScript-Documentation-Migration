@@ -58,4 +58,3 @@ protected override void OnConnectionStatusUpdate(ConnectionStatusEventArgs conne
     }
 }
 ```
-

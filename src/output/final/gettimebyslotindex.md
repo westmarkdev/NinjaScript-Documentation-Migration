@@ -8,7 +8,7 @@ pathName: /docs/desktop/gettimebyslotindex
 Returns a time value relative to the chart control corresponding to a specified slot index.
 
 {% callout type="note" %}
-• A "Slot" is used in Equidistant [bar spacing](/docs/desktop/barspacingtype) and represents a position on the chart canvas background which may or may not contain a bar. The concept of "Slots" does NOT exist on a TimeBased bar spacing type. 
+• A "Slot" is used in Equidistant [bar spacing](/docs/desktop/barspacingtype) and represents a position on the chart canvas background which may or may not contain a bar. The concept of "Slots" does NOT exist on a TimeBased bar spacing type.
 
 • If you are looking for information on a bar series, please see [ChartBars.GetTimeByBarIdx()](/docs/desktop/chartbars_gettimebybaridx).
 
@@ -42,4 +42,3 @@ protected override void OnRender(ChartControl chartControl, ChartScale chartScal
     Print(slotTime.Date);
 }
 ```
-

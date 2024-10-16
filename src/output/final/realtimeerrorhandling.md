@@ -8,7 +8,7 @@ pathName: /docs/desktop/realtimeerrorhandling
 Defines the behavior of a strategy when a strategy generated order is returned from the broker's server in a "Rejected" state. Default behavior is to stop the strategy, cancel any remaining working orders, and then close any open positions managed by the strategy by submitting one "Close" order for each unique position.
 
 {% callout type="warning" %}
-• Setting this property value to IgnoreAllErrors can have serious adverse effects on a running strategy unless you have programmed your own order rejection handling in the [OnOrderUpdate()](/docs/desktop/onorderupdate) method. 
+• Setting this property value to IgnoreAllErrors can have serious adverse effects on a running strategy unless you have programmed your own order rejection handling in the [OnOrderUpdate()](/docs/desktop/onorderupdate) method.
 
 • User defined rejection handling is advanced and should ONLY be addressed by experienced programmers.
 {% /callout %}
@@ -76,4 +76,3 @@ protected override void OnOrderUpdate(Order order, double limitPrice, double sto
     }
 }
 ```
-

@@ -23,5 +23,4 @@ Sometimes, you may want to access a value from a historical point in time, but h
 2. From the Control Center window, select the menu Tools > Import > NinjaScript.
 3. Select the downloaded file.
 
-[SampleGetBar_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleGetBar_NT8.zip) 
-
+[SampleGetBar_NT8.zip](https://ninjatrader.com/support/helpGuides/nt8/samples/SampleGetBar_NT8.zip)

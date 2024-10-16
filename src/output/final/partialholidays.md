@@ -29,4 +29,3 @@ foreach(KeyValuePair<DateTime, PartialHoliday> holiday in TradingHours.PartialHo
     Print(holiday);
 }
 ```
-

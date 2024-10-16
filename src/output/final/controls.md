@@ -19,4 +19,3 @@ For cleaning up these resources, please see the [NTTabPage.Cleanup()](/docs/desk
 | [IntervalSelector](/docs/desktop/intervalselector) | IntervalSelector is a UI element users can interact with for selecting intervals. This can be used with interval linking between windows. |
 | [TifSelector](/docs/desktop/tifselector) | TifSelector can be used as a UI element users can interact with for selecting TIF. |
 | [QuantityUpDown](/docs/desktop/quantityupdown) | QuantityUpDown can be used as a UI element users can interact with for selecting quantity. |
-

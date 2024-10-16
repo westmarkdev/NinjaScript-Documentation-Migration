@@ -51,4 +51,3 @@ if (SMA(20)[0] > SMA(BarsArray[1], 20)[0])
  EnterLong();
 }
 ```
-
