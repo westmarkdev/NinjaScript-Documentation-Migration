@@ -1,15 +1,19 @@
 ---
 title: "Alphabetical Reference"
-pathName: alphabetical_reference
+pathName: /docs/alphabetical_reference
 ---
 
-## Definition
+## Overview
 
-The Alphabetical Reference provides a comprehensive list of terms and definitions related to our SDK.
+The Alphabetical Reference provides a comprehensive list of functions and objects available in NinjaScript, making it easier to locate information quickly.
 
-## Content Retrieval
+{% callout type="note" %}
+This reference index helps developers navigate through the SDK more efficiently and is a crucial resource for learning and development.
+{% /callout %}
 
-The following script dynamically loads the content from an external HTML file:
+## Index
+
+The index includes links to detailed descriptions and usage examples for each function and object.
 
 ```javascript
 $(function(){
@@ -17,12 +21,18 @@ $(function(){
 });
 ```
 
-## Usage
+{% callout type="warning" %}
+Ensure that the content is loaded correctly from the specified source. Verify path accessibility to avoid runtime errors.
+{% /callout %}
 
-This script should be included in your web page to access the alphabetical reference efficiently.
+## Additional Resources
 
-{% callout type="note" %}
+For further information, consider exploring the following topics:
 
-- Ensure that the external HTML file "nt8_kwindex.htm" is located in the correct directory for the script to function properly.
-- This method allows for easy updates to the content without altering the main webpage.
+- [NinjaScript Basics](/docs/desktop/ninjascript_basics)
+- [Using Indicators](/docs/desktop/using_indicators)
+- [Custom Strategies](/docs/desktop/custom_strategies)
+
+{% callout type="tip" %}
+Stay updated with the latest SDK changes by frequently checking the official documentation.
 {% /callout %}

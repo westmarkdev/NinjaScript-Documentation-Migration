@@ -23,4 +23,3 @@ __pycache__/
 
 # ignore the intermediate files
 src/output/fixed/*
-src/output/

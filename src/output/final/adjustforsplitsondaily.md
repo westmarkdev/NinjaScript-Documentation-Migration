@@ -1,13 +1,13 @@
 ---
 title: "GetValueAt()"
-pathName: adjustforsplitsondaily
+pathName: /docs/desktop/adjustforsplitsondaily
 ---
 
 ## Definition
 
 Defines the method/property.
 
-{% callout note %}
+{% callout type="note" %}
 This important note.
 {% /callout %}
 
@@ -23,9 +23,9 @@ MethodName(int input)
 
 ## Parameters
 
-| Parameter | Description                                       |
-|-----------|---------------------------------------------------|
-| input     | An int which represents the method input.        |
+|  |  |
+| --- | --- |
+| input | An `int` which represents the method input |
 
 ## Examples
 

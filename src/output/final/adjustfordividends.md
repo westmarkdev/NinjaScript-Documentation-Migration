@@ -1,35 +1,34 @@
 ---
 title: "GetValueAt()"
-pathName: adjustfordividends
+pathName: /docs/desktop/adjustfordividends
 ---
 
 ## Definition
 
 Defines the method/property.
 
-{% callout note %}
+{% callout type="note" %}
 This important note.
 {% /callout %}
 
 ## Method Return Value
 
-A bool value when true; otherwise false.
+A `bool` value when true; otherwise false.
 
 ## Syntax
 
 ```csharp
-GetValueAt(int input)
+MethodName(int input)
 ```
 
 ## Parameters
 
-| Parameter | Description                                     |
-|-----------|-------------------------------------------------|
-| input     | An int which represents the method input.      |
+|  |  |
+| --- | --- |
+| input | An `int` which represents the method input. |
 
 ## Examples
 
 ```csharp
-bool result = GetValueAt(1);
+1 |
 ```
-
