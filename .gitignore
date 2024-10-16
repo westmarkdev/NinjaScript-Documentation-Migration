@@ -2,19 +2,13 @@
 .env.local
 .DS_Store
 
-# Ignore all files in input/raw and output directories
-input/raw/*
-output/*
-
-# But keep the directory structure
-!input/raw/.gitkeep
-!output/.gitkeep
+# Ignore all changed files in input
+src/input/
 
 # Ignore large or temporary files
 *.log
 *.tmp
 *.pkl
-hmkwindex.md
 
 # Ignore node_modules
 node_modules/
@@ -26,3 +20,6 @@ __pycache__/
 # Keep scripts and configuration files
 !scripts/**/*
 !sanity/**/*
+
+# ignore the intermediate files
+src/output/fixed/*
