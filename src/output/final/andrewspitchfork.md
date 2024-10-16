@@ -34,4 +34,3 @@ AndrewsPitchfork myFork = Draw.AndrewsPitchfork(this, "tag1", false, 7, Low[7], 
 // Print the tag used to draw the object
 Print(myFork.Tag);
 ```
-
