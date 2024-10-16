@@ -1,79 +1,84 @@
 ---
-title: "ExitLongMIT()"
-pathName: exitlongmit
+title: "AddKagi()"
+pathName: /docs/desktop/addkagi
 ---
 
 ## Definition
 
-Generates a sell MIT order to exit a long position.
+Similar to the [AddDataSeries()](/docs/desktop//adddataseries) method for adding Bars objects, this method adds a Kagi Bars object for multi-series NinjaScript.
 
-## Method Return Value
+{% callout type="note" %}
 
-An [Order](order) read-only object that represents the order. Reserved for experienced programmers, additional information can be found within the [Advanced Order Handling](advanced_order_handling) section.
+1. When running NinjaScript, you will be able to choose the first instrument and bar interval to run on. This first Bars object will carry a [BarsInProgress](/docs/desktop/barsinprogress) index of 0.
+2. In a multi-time frame and multi-instrument NinjaScript, supplementary Bars objects are added via this method in State.Configure state of the [OnStateChange()](/docs/desktop/onstatechange) method and given an incremented BarsInProgress index value. See additional information on running [multi-bars scripts](/docs/desktop/multi-time_frame__instruments).
+3. The [BarsInProgress](/docs/desktop/barsinprogress) property can be used to filter updates between different bars series
+4. If using [OnMarketData()](/docs/desktop/onmarketdata), a subscription will be created on all bars series added in your indicator or strategy strategy (even if the instrument is the same).  The market data subscription behavior occurs both in real-time and during [TickReplay](/docs/desktop/developing_for__tick_replay) historical
+5. For adding regular Bars types please use [AddDataSeries()](/docs/desktop/adddataseries)
+6. A Tick Replay indicator or strategy CANNOT use a MarketDataType.Ask or MarketDataType.Bid series.  Please see [Developing for Tick Replay](/docs/desktop/developing_for__tick_replay) for more information.
+
+{% /callout %}
 
 ## Syntax
 
 ```csharp
-ExitLongMIT(double stopPrice)
+AddKagi(string instrumentName, Data.BarsPeriodType baseBarsPeriodType, int baseBarsPeriodTypeValue, int reversal, Data.ReversalType reversalType, Data.MarketDataType marketDataType)  
 ```
 
 ```csharp
-ExitLongMIT(int quantity, double stopPrice)
+AddKagi(string instrumentName, Data.BarsPeriodType baseBarsPeriodType, int baseBarsPeriodTypeValue, int reversal, Data.ReversalType reversalType, Data.MarketDataType marketDataType, string tradingHoursName)  
 ```
 
 ```csharp
-ExitLongMIT(double stopPrice, string fromEntrySignal)
+AddKagi(string instrumentName, Data.BarsPeriodType baseBarsPeriodType, int baseBarsPeriodTypeValue, int reversal, Data.ReversalType reversalType, Data.MarketDataType marketDataType, string tradingHoursName, bool? isResetOnNewTradingDay)
 ```
 
-```csharp
-ExitLongMIT(double stopPrice, string signalName, string fromEntrySignal)
-```
+{% callout type="warning" %}
+This method should ONLY be called from the [OnStateChange()](/docs/desktop//onstatechange) method during State.Configure
 
-```csharp
-ExitLongMIT(int quantity, double stopPrice, string signalName, string fromEntrySignal)
-```
+- Should your script be the host for other scripts that are creating indicators and series dependent resources in State.DataLoaded, please make sure that the host is doing the same AddKagi() calls as those hosted scripts would. For further reference, please also review the 'Adding additional Bars Objects to NinjaScript' section in [Multi-Time Frame &amp; Instruments](/docs/desktop/multi-time_frame__instruments)
 
-```csharp
-ExitLongMIT(int barsInProgressIndex, bool isLiveUntilCancelled, int quantity, double stopPrice, string signalName, string fromEntrySignal)
-```
-
-The following method variation is for experienced programmers who fully understand [Advanced Order Handling](advanced_order_handling) concepts.
+- Arguments supplied to AddKagi() should be hardcoded and NOT dependent on run-time variables which cannot be reliably obtained during [State.Configure](/docs/desktop/state) (e.g., [Instrument](/docs/desktop/instrument), [Bars](/docs/desktop/bars), or user input).  Attempting to add a data series dynamically is NOT guaranteed and therefore should be avoided.  Trying to load bars dynamically may result in an error similar to: Unable to load bars series. Your NinjaScript may be trying to use an additional data series dynamically in an unsupported manner.
+{% /callout %}
 
 ## Parameters
 
-| Parameter              | Description                                                                                                                                                                                                                         |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| signalName             | User defined signal name identifying the order generated. Max 50 characters.                                                                                                                                                     |
-| fromEntrySignal        | The entry signal name. This ties the exit to the entry and exits the position quantity represented by the actual entry. Note: Using an empty string will attach the exit order to all entries.                                   |
-| stopPrice              | The stop price of the order.                                                                                                                                                                                                       |
-| quantity               | Entry order quantity.                                                                                                                                                                                                              |
-| isLiveUntilCancelled   | The order will NOT expire at the end of a bar but instead remain live until the CancelOrder() method is called or its time in force is reached.                                                                                     |
-| barsInProgressIndex    | The index of the Bars object the order is to be submitted against. Used to determine what instrument the order is submitted for. See the [BarsInProgress](barsinprogress) property.                                                |
+|  |  |
+| --- | --- |
+| instrumentName | A `string` determining instrument name such as "MSFT" |
+| baseBarsPeriodType | The underlying BarsType used for the Kagi bars period. {% <br> %}  &bull; BarsPeriodType.Day{% <br> %} &bull; BarsPeriodType.Minute{% <br> %} &bull; BarsPeriodType.Second{% <br> %} &bull; BarsPeriodType.Tick{% <br> %} &bull; BarsPeriodType.Volume |
+| baseBarsPeriodTypeValue | An `int` determining the underlying period interval such as "3" for 3 minute bars |
+| reversal | An `int` determining the required price movement in the reversal direction before a reversal is identified on the chart |
+| reversalType | An `enum` determining the mode reversal period is based. {% <br> %} &bull; ReversalType.Percent{% <br> %} &bull; ReversalType.Tick |
+| marketDataType | The MarketDataType used for the bars object (last, bid, ask) {% <br> %} &bull; MarketDataType.Ask{% <br> %} &bull; MarketDataType.Bid{% <br> %} &bull; MarketDataType.Last{% <br> %} **Note**: Please see the article here on using Bid/Ask series. |
+| tradingHoursName | A string determining the trading hours template for the instrument |
+| isResetOnNewTradingDay | A nullable `bool` determining if the Bars object should [Break at EOD](/docs/desktop/break_at_eod) {% <br> %} Will accept true, false or null as the input.  If null is used, the data series will use the settings of the primary data series. |
+
+{% callout type="tip" %}
+You can optionally add the exchange name as a suffix to the symbol name. This is only advised if the instrument has multiple possible exchanges that it can trade on and it is configured within the Instruments window. For example: AddKagi("MSFT Arca", PeriodType.Minute, 1, 2, ReversalType.Tick, MarketDataType.Last)
+{% /callout %}
 
 ## Examples
 
 ```csharp
-private double stopPrice = 0;
+protected override void OnStateChange()
+{
+   if (State == State.SetDefaults)
+   {
+       Name = "Examples Indicator";
+   }
+   else if (State == State.Configure)
+   {
+       // Add a 1 minute Kagi Bars object for the ES 03-18 contract - BarsInProgress index = 1
+       AddKagi("ES 03-18", BPeriodType.Minute, 1, 2, ReversalType.Tick, MarketDataType.Last);
+   }
+}
+
 protected override void OnBarUpdate()
 {
-    if (CurrentBar < 20)
-        return;
-    // Only enter if at least 10 bars has passed since our last entry
-    if ((BarsSinceEntryExecution() > 10 || BarsSinceEntryExecution() == -1) && CrossAbove(SMA(10), SMA(20), 1))
-    {
-        EnterLong("SMA Cross Entry");
-        stopPrice = High[0];
-    }
-    // Exits position
-    ExitLongMIT(stopPrice);
+     // Ignore the primary Bars object and only process the Kagi Bars object
+     if (BarsInProgress == 1)
+     {
+         // Do something;
+     }
 }
 ```
-
-{% callout type="tip" %}
-
-- This method is ignored if a long position does not exist.
-- It is helpful to provide a signal name if your strategy has multiple exit points to help identify your exits on a chart.
-- You can tie an exit to an entry by providing the entry signal name in the parameter "fromEntrySignal".
-- If you do not specify a quantity, the entire position is exited rendering your strategy flat.
-- If you do not specify a "fromEntrySignal" parameter, the entire position is exited rendering your strategy flat.
-{% /callout %}
