@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6b49449971a058de16066ad16e1a3631bd3695d67f4e6e7555977a47386867b0",
+    "_type": "desktopSdkDoc",
+    "title": "StartAtmStrategy()",
+    "pathName": "startatmstrategy",
+    "parent": "add_on",
+    "order": 0,
+    "status": "updated",
+    "section": "references",
+    "markdown": "## Definition\n\n**StartAtmStrategy** can be used to submit entry orders with ATM strategies.\n\n## Syntax\n\n**NinjaTrader.NinjaScript.AtmStrategy.StartAtmStrategy**(AtmStrategy atmStrategyTemplate, Order entryOrder)\n\n**NinjaTrader.NinjaScript.AtmStrategy.StartAtmStrategy**(string atmStrategyTemplateName, Order entryOrder)\n\n## Properties\n\n{% table %}\n\n* atmStrategyTemplate\n* atmStrategyTemplateName\n* entryOrder\n\n---\n\n* An AtmStrategy representing the ATM strategy you wish to use\n* A string representing the name of the ATM strategy you wish to use\n* An Order representing the entry order\n{% /table %}\n\n{% callout type=\"note\" %}\nCritical: The \"name\" argument on the **CreateOrder()** method MUST be named \"Entry\" for the ATM Strategy to be started successfully.\n{% /callout %}\n\n## Examples\n\n```csharp\n// Example of starting an ATM strategy from an Add On window. The concept can be carried over\n// to any NinjaScript object you may be working on.\npublic class MyAddOnTab : NTTabPage\n{\n    private Account account;\n    private Order entryOrder;\n\n    public MyAddOnTab()\n    {\n        // Find our Sim101 account\n        lock (Account.All)\n            account = Account.All.FirstOrDefault(a => a.Name == \"Sim101\");\n\n        if (account != null)\n        {\n            entryOrder = account.CreateOrder(Cbi.Instrument.GetInstrument(\"AAPL\"), OrderAction.Buy, OrderType.Market,\n                TimeInForce.Day, 1, 0, 0, string.Empty, \"Entry\", null);\n\n            // Submits our entry order with the ATM strategy named \"myAtmStrategyName\"\n            **NinjaTrader.NinjaScript.AtmStrategy.StartAtmStrategy**(\"myAtmStrategyName\", entryOrder);\n        }\n    }\n\n    // Other required NTTabPage members left out for demonstration purposes. Be sure to add them in your own code if building an Add On window.\n}\n```"
+  }
+]
