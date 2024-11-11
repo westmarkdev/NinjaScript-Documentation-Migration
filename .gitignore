@@ -1,0 +1,25 @@
+.env
+.env.local
+.DS_Store
+
+# Ignore all changed files in input
+src/input/
+
+# Ignore large or temporary files
+*.log
+*.tmp
+*.pkl
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Keep scripts and configuration files
+!scripts/**/*
+!sanity/**/*
+
+# ignore the intermediate files
+src/output/fixed/*
