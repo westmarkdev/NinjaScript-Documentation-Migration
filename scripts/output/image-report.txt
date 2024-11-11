@@ -1,0 +1,1093 @@
+Image Download Report
+====================
+
+No images found in file: docs\brush.md
+No images found in file: docs\charts.md
+No images found in file: docs\disposebase.md
+No images found in file: docs\geometrysink.md
+No images found in file: docs\gradientstopcollection.md
+No images found in file: docs\hmkwindex.md
+No images found in file: docs\lineargradientbrush.md
+No images found in file: docs\ninjascript.md
+No images found in file: docs\pathgeometry.md
+No images found in file: docs\radialgradientbrush.md
+No images found in file: docs\solidcolorbrush.md
+No images found in file: docs\strokestyle.md
+No images found in file: docs\system_indicator_methods.md
+No images found in file: docs\guides\code_breaking_changes.md
+No images found in file: docs\guides\distribution.md
+No images found in file: docs\guides\educational_resources.md
+No images found in file: docs\guides\introduction.md
+No images found in file: docs\guides\ninjascript_best_practices.md
+No images found in file: docs\guides\ninjascript_editor_overview.md
+No images found in file: docs\references\language_reference.md
+No images found in file: docs\references\sharpdx.md
+No images found in file: docs\todo\connection_class.md
+No images found in file: docs\todo\drawline2.md
+No images found in file: docs\todo\drawrectangle2.md
+No images found in file: docs\todo\getvalueat.md
+No images found in file: docs\todo\setpropertyname_chartstyle.md
+No images found in file: docs\todo\tradinghours_name.md
+No images found in file: docs\todo\tradinghours_sessions.md
+No images found in file: docs\todo\transformbrush.md
+No images found in file: docs\todo\trendchannel.md
+No images found in file: docs\todo\triangle.md
+No images found in file: docs\todo\triangledown.md
+No images found in file: docs\todo\triangleup.md
+No images found in file: docs\todo\triggercustomevent.md
+No images found in file: docs\todo\true_strength_index_tsi.md
+No images found in file: docs\todo\turnaround.md
+No images found in file: docs\todo\typeconverterattribute.md
+No images found in file: docs\todo\typical.md
+No images found in file: docs\todo\typicals.md
+No images found in file: docs\todo\ulcer.md
+No images found in file: docs\todo\ultimate_oscillator.md
+No images found in file: docs\todo\unmanaged_cancelorder.md
+No images found in file: docs\todo\unmanaged_changeorder.md
+No images found in file: docs\todo\upbrush.md
+No images found in file: docs\todo\upbrushdx.md
+No images found in file: docs\todo\update.md
+No images found in file: docs\todo\url.md
+No images found in file: docs\todo\value.md
+No images found in file: docs\todo\values.md
+No images found in file: docs\todo\verticalline.md
+No images found in file: docs\todo\volume.md
+No images found in file: docs\todo\volumeseries.md
+No images found in file: docs\todo\volume_moving_average_volma.md
+No images found in file: docs\todo\volume_oscillator.md
+No images found in file: docs\todo\volume_rate_of_change_vroc.md
+No images found in file: docs\todo\volume_up_down.md
+No images found in file: docs\todo\weighted.md
+No images found in file: docs\todo\weighteds.md
+No images found in file: docs\todo\width.md
+No images found in file: docs\todo\williams_r.md
+No images found in file: docs\todo\winningtrades.md
+No images found in file: docs\todo\woodies_cci.md
+No images found in file: docs\todo\woodies_pivots.md
+No images found in file: docs\todo\workspaceoptions.md
+No images found in file: docs\todo\w_width_chartpanel.md
+No images found in file: docs\todo\xmlignoreattribute.md
+No images found in file: docs\todo\x_coordinate_chartpanel.md
+No images found in file: docs\todo\y_coordinate_chartpanel.md
+No images found in file: docs\todo\zigzag.md
+No images found in file: docs\guides\Distribution\commercial_distribution.md
+No images found in file: docs\guides\Distribution\considerations_for_compiled_assemblies.md
+No images found in file: docs\guides\Distribution\export.md
+No images found in file: docs\guides\Distribution\export_problems.md
+No images found in file: docs\guides\Distribution\import.md
+No images found in file: docs\guides\Distribution\protection_dll_security.md
+No images found in file: docs\guides\Distribution\remove-ninjascript-assembly.md
+No images found in file: docs\guides\Editor\compile_error_codes.md
+No images found in file: docs\guides\Editor\editor_keyboard_shortcuts.md
+No images found in file: docs\guides\Editor\intelliprompt.md
+No images found in file: docs\guides\Educational Resources\creating_your_own_level_ii_dat.md
+No images found in file: docs\guides\Educational Resources\c_method_functions_reference.md
+No images found in file: docs\guides\Educational Resources\developing_add_ons.md
+No images found in file: docs\guides\Educational Resources\developing_indicators.md
+No images found in file: docs\guides\Educational Resources\developing_outside_of_the_ninj.md
+No images found in file: docs\guides\Educational Resources\developing_strategies.md
+No images found in file: docs\guides\Educational Resources\functions_and_methods_explaine.md
+No images found in file: docs\guides\Educational Resources\historical_order_backfill_logic.md
+No images found in file: docs\guides\Educational Resources\looping_commands.md
+No images found in file: docs\guides\Educational Resources\multi-time_frame__instruments.md
+No images found in file: docs\guides\Educational Resources\multi_threading_consideration_for_ninjascript.md
+No images found in file: docs\guides\Educational Resources\other_uses_for_an_addon.md
+No images found in file: docs\guides\Educational Resources\reference_samples.md
+No images found in file: docs\guides\Educational Resources\strategy2.md
+No images found in file: docs\guides\Educational Resources\tips.md
+No images found in file: docs\references\Language Reference\add_on.md
+No images found in file: docs\references\Language Reference\alphabetical_reference.md
+No images found in file: docs\references\Language Reference\bars_type.md
+No images found in file: docs\references\Language Reference\chart_style.md
+No images found in file: docs\references\Language Reference\common.md
+No images found in file: docs\references\Language Reference\drawing_tools.md
+No images found in file: docs\references\Language Reference\import_type.md
+No images found in file: docs\references\Language Reference\indicator.md
+No images found in file: docs\references\Language Reference\market_analyzer_column.md
+No images found in file: docs\references\Language Reference\optimization_fitness.md
+No images found in file: docs\references\Language Reference\optimizer.md
+No images found in file: docs\references\Language Reference\performance_metrics.md
+No images found in file: docs\references\Language Reference\share_service.md
+No images found in file: docs\references\Language Reference\strategy.md
+No images found in file: docs\references\Language Reference\superdom_column.md
+No images found in file: docs\references\SharpDX SDK Reference\sharpdx_direct2d1.md
+No images found in file: docs\references\SharpDX SDK Reference\sharpdx_directwrite.md
+No images found in file: docs\references\SharpDX SDK Reference\sharpdx_sdk_reference.md
+No images found in file: docs\guides\Distribution\Commercial Distribution\best_practices.md
+No images found in file: docs\guides\Distribution\Commercial Distribution\distribution_procedure.md
+No images found in file: docs\guides\Distribution\Commercial Distribution\licensing_user_authentication.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0006.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0019.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0021.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0029.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0103.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0200.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0201.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0234.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0246.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0428.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs0443.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1002.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1061.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1501.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1502.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1503.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1513.md
+No images found in file: docs\guides\Editor\Compile Error Codes\cs1525.md
+No images found in file: docs\guides\Editor\Compile Error Codes\nodoc.md
+No images found in file: docs\guides\Educational Resources\Advanced - Custom Drawing\entering_calculation_logic6.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\advanced_-_custom_plot_colors_.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\advanced_custom_drawing.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\beginner_-_indicator_on_indica.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\beginner_-_using_price_variabl.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\intermediate_-_historical_cust.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\intermediate_-_your_own_sma.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\beginner_-_simple_ma_cross_ove.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\compiling7.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\compiling8.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\creating_the_strategy_via_self.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\entering_strategy_logic.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\intermediate_-_rsi_with_stop_l.md
+No images found in file: docs\guides\Educational Resources\Developing Strategies\the_strategy_development_process.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\calculating_the_highest_high_o.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\coloring_a_region.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\creating-chart-wpf-(ui)-modifi.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\creating_a_user-defined_parame.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\draw_objects.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\entering_on_one_time_frame_and.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\exposing_indicator_values_that.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\halting_a_strategy_once_user_d.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\indicator2.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\keeping_orders_alive.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\manipulating_datetime_objects.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\manipulating_string_objects.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\modifying_the_price_of_stop_lo.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\monitoring_for_and_trading_a_b.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\monitoring_stop-loss_and_profi.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\multi-colored_plots.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\plotting_from_within_a_ninjasc.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\removing_and_custom_formatting.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\removing_draw_objects_from_the.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\resetting_values_at_the_beginn.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\rounding_values_to_the_nearest.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\scaling_out_of_a_position.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\separating_logic_to_either_cal.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\stopping_a_strategy_after_cons.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\synchronizing_a_dataseries_obj.md
+No images found in file: docs\guides\Educational Resources\Reference Samples\trading_crossovers.md
+No images found in file: docs\guides\Educational Resources\Tips\adding_indicators_to_strategie.md
+No images found in file: docs\guides\Educational Resources\Tips\checking_for_null_references.md
+No images found in file: docs\guides\Educational Resources\Tips\creating_user_defined_input_pa.md
+No images found in file: docs\guides\Educational Resources\Tips\debugging_your_ninjascript_cod.md
+No images found in file: docs\guides\Educational Resources\Tips\floating-point_arithmetic.md
+No images found in file: docs\guides\Educational Resources\Tips\formatting_numbers.md
+No images found in file: docs\guides\Educational Resources\Tips\how_do_i_resolve_ninjascript_p.md
+No images found in file: docs\guides\Educational Resources\Tips\make_sure_you_have_enough_bars.md
+No images found in file: docs\guides\Educational Resources\Tips\order_types.md
+No images found in file: docs\guides\Educational Resources\Tips\parameter_sequencing.md
+No images found in file: docs\guides\Educational Resources\Tips\referencing_the_correct_bar.md
+No images found in file: docs\guides\Educational Resources\Tips\strategy_position_vs__account_.md
+No images found in file: docs\guides\Educational Resources\Tips\traceorders2.md
+No images found in file: docs\references\Language Reference\10.0 Optimization Fitness\oncalculateperformancevalue.md
+No images found in file: docs\references\Language Reference\10.0 Optimization Fitness\optimization_fitness_value.md
+No images found in file: docs\references\Language Reference\11.0 Optimizer\numberofiterations.md
+No images found in file: docs\references\Language Reference\11.0 Optimizer\onoptimize.md
+No images found in file: docs\references\Language Reference\11.0 Optimizer\optimizationparameters.md
+No images found in file: docs\references\Language Reference\11.0 Optimizer\runiteration.md
+No images found in file: docs\references\Language Reference\11.0 Optimizer\supportsmultiobjectiveoptimiza.md
+No images found in file: docs\references\Language Reference\12.0 Performance Metrics\format.md
+No images found in file: docs\references\Language Reference\12.0 Performance Metrics\onaddtrade.md
+No images found in file: docs\references\Language Reference\12.0 Performance Metrics\oncopyto.md
+No images found in file: docs\references\Language Reference\12.0 Performance Metrics\onmergeperformancemetric.md
+No images found in file: docs\references\Language Reference\12.0 Performance Metrics\performancemetric_values.md
+No images found in file: docs\references\Language Reference\12.0 Performance Metrics\performanceunit.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\characterlimit.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\charactersreservedpermedia.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\icon.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\isauthorizationrequired.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\isconfigured.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\isdefault.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\isimageattachmentsupported.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\onauthorizeaccount.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\onshare.md
+No images found in file: docs\references\Language Reference\13.0 Share Service\signature.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\addchartindicator.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\addperformancemetric.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\atm_strategy_methods.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\backtesting_ninjascript_strate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\barsrequiredtotrade.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\barssinceentryexecution.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\barssinceexitexecution.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\chartindicators.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\closestrategy.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\connectionlosshandling.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\cumprofit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\daystoload.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\defaultquantity.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\disconnectdelayseconds.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\entriesperdirection.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\entryhandling.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\execution.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\exitonsessioncloseseconds.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\gettrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\includecommission.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\includetradehistoryinbacktest.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\isadoptaccountpositionaware.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\isexitonsessionclosestrategy.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\isfilllimitontouch.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\isinstantiatedoneachoptimizationiteration.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\isinstrategyanalyer.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\istradinghoursbreaklinevisible.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\iswaituntilflat.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\numberrestartattempts.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\onaccountitemupdate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\onexecutionupdate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\onordertrace.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\onorderupdate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\onpositionupdate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\optimizationperiod.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\order.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\orderfillresolution.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\orderfillresolutiontype.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\orderfillresolutionvalue.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\order_methods.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\position.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\positionaccount.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\positionaccount_quantity.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\positionsaccount.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\position_quantity.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\realtimeerrorhandling.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\restartswithinminutes.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\setorderquantity.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\slippage.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\startbehavior.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\stoptargethandling.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\strategybaseconverter.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\strategy_account.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\strategy_performancemetrics.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\strategy_plots.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\systemperformance.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\testperiod.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\timeinforce.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\traceorders.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\trade.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\tradecollection.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\tradesperformance.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\tradesperformancevalues.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\onpropertychanged.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\onrestorevalues.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\superdomcolumn_marketdepth.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\superdomcolumn_onmarketdata.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\superdomcolumn_onorderupdate.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\superdomcolumn_onpositionupdate.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\superdomcolumn_onrender.md
+No images found in file: docs\references\Language Reference\2.0 Common\adddataseries.md
+No images found in file: docs\references\Language Reference\2.0 Common\alert__debugging_and_sharing.md
+No images found in file: docs\references\Language Reference\2.0 Common\analytical.md
+No images found in file: docs\references\Language Reference\2.0 Common\attributes.md
+No images found in file: docs\references\Language Reference\2.0 Common\bars.md
+No images found in file: docs\references\Language Reference\2.0 Common\clone.md
+No images found in file: docs\references\Language Reference\2.0 Common\description.md
+No images found in file: docs\references\Language Reference\2.0 Common\drawing.md
+No images found in file: docs\references\Language Reference\2.0 Common\indicators.md
+No images found in file: docs\references\Language Reference\2.0 Common\instruments_ninjascript.md
+No images found in file: docs\references\Language Reference\2.0 Common\iseriest.md
+No images found in file: docs\references\Language Reference\2.0 Common\isvisible.md
+No images found in file: docs\references\Language Reference\2.0 Common\name.md
+No images found in file: docs\references\Language Reference\2.0 Common\onbarupdate.md
+No images found in file: docs\references\Language Reference\2.0 Common\onconnectionstatusupdate.md
+No images found in file: docs\references\Language Reference\2.0 Common\onfundamentaldata.md
+No images found in file: docs\references\Language Reference\2.0 Common\onmarketdata.md
+No images found in file: docs\references\Language Reference\2.0 Common\onmarketdepth.md
+No images found in file: docs\references\Language Reference\2.0 Common\onstatechange.md
+No images found in file: docs\references\Language Reference\2.0 Common\sessioniterator.md
+No images found in file: docs\references\Language Reference\2.0 Common\simplefont_class.md
+No images found in file: docs\references\Language Reference\2.0 Common\tradinghours.md
+No images found in file: docs\references\Language Reference\3.0 Add On\account_class.md
+No images found in file: docs\references\Language Reference\3.0 Add On\alert_and_debug_concepts.md
+No images found in file: docs\references\Language Reference\3.0 Add On\atmstrategy.md
+No images found in file: docs\references\Language Reference\3.0 Add On\barsrequest.md
+No images found in file: docs\references\Language Reference\3.0 Add On\controlcenter.md
+No images found in file: docs\references\Language Reference\3.0 Add On\controls.md
+No images found in file: docs\references\Language Reference\3.0 Add On\fundamentaldata.md
+No images found in file: docs\references\Language Reference\3.0 Add On\iinstrumentprovider_interface.md
+No images found in file: docs\references\Language Reference\3.0 Add On\iintervalprovider_interface.md
+No images found in file: docs\references\Language Reference\3.0 Add On\inttabfactory_class.md
+No images found in file: docs\references\Language Reference\3.0 Add On\marketdata.md
+No images found in file: docs\references\Language Reference\3.0 Add On\marketdepth.md
+No images found in file: docs\references\Language Reference\3.0 Add On\newsitems.md
+No images found in file: docs\references\Language Reference\3.0 Add On\newssubscription.md
+No images found in file: docs\references\Language Reference\3.0 Add On\ntmenuitem.md
+No images found in file: docs\references\Language Reference\3.0 Add On\ntmessageboxsimple_show().md
+No images found in file: docs\references\Language Reference\3.0 Add On\nttabpage_class.md
+No images found in file: docs\references\Language Reference\3.0 Add On\ntwindow.md
+No images found in file: docs\references\Language Reference\3.0 Add On\numerictextbox.md
+No images found in file: docs\references\Language Reference\3.0 Add On\onwindowcreated.md
+No images found in file: docs\references\Language Reference\3.0 Add On\onwindowdestroyed.md
+No images found in file: docs\references\Language Reference\3.0 Add On\onwindowrestored.md
+No images found in file: docs\references\Language Reference\3.0 Add On\onwindowsaved.md
+No images found in file: docs\references\Language Reference\3.0 Add On\propagateinstrumentchange().md
+No images found in file: docs\references\Language Reference\3.0 Add On\propagateintervalchange().md
+No images found in file: docs\references\Language Reference\3.0 Add On\startatmstrategy.md
+No images found in file: docs\references\Language Reference\3.0 Add On\strategybase.md
+No images found in file: docs\references\Language Reference\3.0 Add On\tabcontrol.md
+No images found in file: docs\references\Language Reference\3.0 Add On\tabcontrolmanager.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\addbar.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\applydefaultbaseperiodvalue.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\applydefaultvalue.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\barstype_istimebased.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\barstype_sessioniterator.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\builtfrom.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\defaultchartstyle.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\getinitiallookbackdays.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\getpercentcomplete.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\icon_barstype.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\isremovelastbarsupported.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\ondatapoint.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\removelastbar.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\setpropertyname.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\setpropertyname2.md
+No images found in file: docs\references\Language Reference\4.0. Bars Type\updatebar.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\barwidth.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\barwidthui.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\chartstyletype.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\chartstyle_onrender.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\downbrush.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\downbrushdx.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\getbarpaintwidth.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\icon_chartstyle.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\istransparent.md
+No images found in file: docs\references\Language Reference\5.0 Chart Style\setpropertyname_2.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\addpastedoffset.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\anchors.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\attachedto.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\chartanchor.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\converttoverticalpixels.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\createanchor.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\displayonchartsmenus.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\dispose.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\drawingstate.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\drawnby.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\getattachedtochartbars.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\getclosestanchor.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\getcursor.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\getselectionpoints.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\icon_drawingtool.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ignoressnapping.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ignoresuserinput.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\isattachedtoninjascript.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\isglobaldrawingtool.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\islocked.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\isuserdrawn.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\onbarschanged.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\onmousedown.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\onmousemove.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\onmouseup.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\supportsalerts.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\zordertype.md
+No images found in file: docs\references\Language Reference\7.0 Import Type\onnextdatapoint.md
+No images found in file: docs\references\Language Reference\7.0 Import Type\onnextinstrument.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\addline.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\addplot.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\barsrequiredtoplot.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\displacement.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\displayindatabox.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\drawhorizontalgridlines.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\drawonpricepanel.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\drawverticalgridlines.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\indicatorbaseconverter.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\indicator_displayname.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\ischartonly.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\issuspendedwhileinactive.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\lines.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\line_class.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\paintpricemarkers.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\plotbrushes.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\plots.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\showtransparentplotsindatabox.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\currenttext.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\currentvalue.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\datatype.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\formatdecimals.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\iseditable.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\onrender2.md
+No images found in file: docs\references\Language Reference\9.0 Market Analyzer Column\priorvalue.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_color.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_color3.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_color4.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_disposebase_isdisposed.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_matrix3x2.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_rectanglef.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_size2f.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\sharpdx_vector2.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_antialiasmode.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_arcsegment.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_arcsize.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_brush.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_brushproperties.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_capstyle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_drawtextoptions.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_ellipse.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_figurebegin.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_figureend.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_fillmode.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_gradientstop.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_measuringmode.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_solidcolorbrush.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\sharpdx_direct2d1_sweepdirection.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_linemetrics.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_flowdirection.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_fontfamilyname.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_fontsize.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_fontstretch.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_fontstyle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_fontweight.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_paragraphalignment.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_readingdirection.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_textalignment.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textformat_wordwrapping.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textlayout.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textlayout_getlinemetrics.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textlayout_maxheight.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textlayout_maxwidth.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.DirectWrite\sharpdx_directwrite_textlayout_metrics.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Advanced - Custom Drawing\compiling6.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Advanced - Custom Plot Colors via Thresholds\compiling5.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Advanced - Custom Plot Colors via Thresholds\entering_calculation_logic5.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Beginner - Indicator on Indicator\compiling2.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Beginner - Indicator on Indicator\entering_calculation_logic2.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Beginner - Using price variables\compiling.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Beginner - Using price variables\entering_calculation_logic.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Intermdidate - Your own SMA\compiling3.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Intermdidate - Your own SMA\entering_calculation_logic3.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Intermediate - Historical Custom Data Series\compiling4.md
+No images found in file: docs\guides\Educational Resources\Developing Indicators\Intermediate - Historical Custom Data Series\entering_calculation_logic4.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\atmstrategycancelentryorder.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\atmstrategychangeentryorder.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\atmstrategychangestoptarget.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\atmstrategyclose.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\atmstrategycreate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategyentryorderstatus.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategymarketposition.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategypositionaveragep.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategypositionquantity.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategyrealizedprofitlo.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategystoptargetorders.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategyuniqueid.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\ATM Strategy Methods\getatmstrategyunrealizedprofit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\OnAccountItemUpdate\accountitemeventargs.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order\isterminalstate.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\managed_approach.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\unmanaged_approach.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Position\position_averageprice.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Position\position_getunrealizedprofitloss.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Position\position_instrument.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Position\position_marketposition.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\PositionAccount\positionaccount_averageprice.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\PositionAccount\positionaccount_getunrealizedprofitloss.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\PositionAccount\positionaccount_instrument.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\PositionAccount\positionaccount_marketposition.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\SystemPerformance\alltrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\SystemPerformance\longtrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\SystemPerformance\realtimetrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\SystemPerformance\shorttrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\currency.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\eventrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\grossloss.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\grossprofit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\longestflatperiod.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\losingtrades.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\maxconsecutiveloser.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\maxconsecutivewinner.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\maxtimetorecover.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\monthlyulcer.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\netprofit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\percent.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\performancemetrics.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\pips.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\points.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\profitfactor.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\riskfreereturn.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\rsquared.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\sharperatio.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\ticks.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\totalcommission.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\totalquantity.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\totalslippage.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\tradecollection_tradescount.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\tradescount.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\tradesperday.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\Untitled.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\averageetd.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\averagemae.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\averagemfe.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\averageprofit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\drawdown.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\largestloser.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\largestwinner.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\profitpermonth.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradesPerformanceValues\stddev.md
+No images found in file: docs\references\Language Reference\15.0 SuperDOM Column\Market Data\superdom_marketdepth.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\addheikenashi.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\addkagi.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\addlinebreak.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\addpointandfigure.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\addrenko.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\addvolumetric.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\barsarray.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\barsinprogress.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\barsperiods.md
+No images found in file: docs\references\Language Reference\2.0 Common\AddDataSeries\currentbars.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\alert.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\clearoutputwindow.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\log.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\playsound.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\print.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\printto.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\rearmalert.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\sendmail.md
+No images found in file: docs\references\Language Reference\2.0 Common\Alert, Debug, Share\share.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\approxcompare.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\countif.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\crossabove.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\crossbelow.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\getcurrentask.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\getcurrentaskvolume.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\getcurrentbid.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\getcurrentbidvolume.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\getmedian.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\highestbar.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\least_recent_occurence_lro.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\lowestbar.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\most_recent_occurence_mro.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\rising.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\slope.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\ticksize.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\today.md
+No images found in file: docs\references\Language Reference\2.0 Common\Analytical\totime.md
+No images found in file: docs\references\Language Reference\2.0 Common\Attributes\browsableattribute.md
+No images found in file: docs\references\Language Reference\2.0 Common\Attributes\categoryorderattribute.md
+No images found in file: docs\references\Language Reference\2.0 Common\Attributes\displayattribute.md
+No images found in file: docs\references\Language Reference\2.0 Common\Attributes\ninjascriptpropertyattribute.md
+No images found in file: docs\references\Language Reference\2.0 Common\Attributes\rangeattribute.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\barssincenewtradingday.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getask.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getbar.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getbid.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getclose.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getdaybar.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\gethigh.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getlow.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getopen.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getsessionendtime.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\gettime.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\getvolume.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\isfirstbarofsession.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\isfirstbarofsessionbyindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\islastbarofsession.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\isresetonnewtradingday.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\istickreplay.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\percentcomplete.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\tickcount.md
+No images found in file: docs\references\Language Reference\2.0 Common\Bars\tochartstring.md
+No images found in file: docs\references\Language Reference\2.0 Common\ChartControl\barwidtharray.md
+No images found in file: docs\references\Language Reference\2.0 Common\ChartControl\chartcontrol_strategies.md
+No images found in file: docs\references\Language Reference\2.0 Common\ChartControl\getslotindexbyx.md
+No images found in file: docs\references\Language Reference\2.0 Common\ChartControl\gettimebyx.md
+No images found in file: docs\references\Language Reference\2.0 Common\ChartControl\getxbytime.md
+No images found in file: docs\references\Language Reference\2.0 Common\ChartControl\timepainted.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\chartingextensions.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\formatpricemarker.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\isautoscale.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\isoverlay 1.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\isoverlay.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\isseparatezorder 1.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\isseparatezorder.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\rendering.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\scalejustification.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\stroke_class 1.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\stroke_class.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\allowremovalofdrawobjects.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\andrewspitchfork.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\arc.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\arrowdown.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\arrowline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\arrowup.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\backbrushes.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\backbrushesall.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\barbrush.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\barbrushes.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\brushes.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\candleoutlinebrush.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\candleoutlinebrushes.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\diamond.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\dot.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\drawingtools_drawobjects.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_andrewspitchfork.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_arc.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_arrowdown.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_arrowline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_arrowup.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_diamond.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_dot.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_ellipse.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_extendedline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_fibonaccicircle.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_fibonacciextensions.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_fibonacciretracements.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_fibonaccitimeextensions.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_gannfan.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_horizontalline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_line.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_pathtool().md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_pathtool.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_polygon.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_ray.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_rectangle.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_region.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_regionhighlightx.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_regionhighlighty.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_regressionchannel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_riskreward.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_ruler.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_square.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_text.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_textfixed.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_timecycles.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_trendchannel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_triangle.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_triangledown.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_triangleup.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\draw_verticalline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\ellipse.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\extendedline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\fibonaccicircle.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\fibonacciextensions.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\fibonacciretracements.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\fibonaccitimeextensions.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\gannfan.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\horizontalline.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\idrawingtool.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\line.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\pathtool.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\polygon.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\pricelevels.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\ray.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\rectangle.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\region.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\regionhighlightx.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\regionhighlighty.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\regressionchannel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\removedrawobject.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\removedrawobjects.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\riskreward.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\ruler.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\square.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\text.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\textfixed.md
+No images found in file: docs\references\Language Reference\2.0 Common\Drawing\timecycles.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\instrument.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\masterinstrument.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\close.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\closes.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\high.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\highs.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\input.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\inputs.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\iseries_count.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\iseries_time.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\iseries_times.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\iseries_volume.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\iseries_volumes.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\isvaliddatapoint.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\isvaliddatapointat.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\low.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\lows.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\maximumbarslookback.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\median.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\medians.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\open.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\opens.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\priceseries.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\reset.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\seriest.md
+No images found in file: docs\references\Language Reference\2.0 Common\ISeriesT\timeseries.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\barsperiod.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\calculate.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\count.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\currentbar.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\isdataseriesrequired.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\isfirsttickofbar.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\isresetonnewtradingdays.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnBarUpdate\istickreplays.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnConnectionStatusUpdate\connectionstatuseventargs.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnFundamentalData\fundamentaldataeventargs.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnMarketData\marketdataeventargs.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnMarketDepth\marketdeptheventargs.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnStateChange\setstate.md
+No images found in file: docs\references\Language Reference\2.0 Common\OnStateChange\state.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\actualsessionbegin.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\actualsessionend.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\actualtradingdayendlocal.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\actualtradingdayexchange.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\calculatetradingday.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\getnextsession.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\gettradingday.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\gettradingdaybeginlocal.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\gettradingdayendlocal.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\isinsession.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\isnewsession.md
+No images found in file: docs\references\Language Reference\2.0 Common\SessionIterator\istradingdaydefined.md
+No images found in file: docs\references\Language Reference\2.0 Common\SimpleFont\simplefont_applyto.md
+No images found in file: docs\references\Language Reference\2.0 Common\SimpleFont\simplefont_todirectwritetextformat.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\accumulation_distribution_adl.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\adaptive_price_zone_apz.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\aroon.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\aroon_oscillator.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\average_directional_index_adx.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\average_directional_movement_r.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\average_true_range_atr.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\balance_of_power_bop.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\block_volume.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\bollinger_bands.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\buysellpressure.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\buysellvolume.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\camarilla_pivots.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\candlestickpattern.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\chaikin_money_flow.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\chaikin_oscillator.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\chaikin_volatility.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\chande_momentum_oscillator_cmo.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\choppiness_index.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\commitment-of-traders-(cot).md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\commodity_channel_index_cci.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\correlation.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\current_day_ohl.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\darvas.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\directional_movement_dm.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\directional_movement_index_dmi.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\disparity_index.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\donchian_channel.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\double_stochastics.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\dynamic_momentum_index_dmindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\ease_of_movement.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\falling.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\fibonacci_pivots.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\fisher_transform.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\forecast_oscillator_fosc.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\keltner_channel.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\keyreversaldown.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\keyreversalup.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\linear_regression.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\linear_regression_intercept.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\linear_regression_slope.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\maenvelopes.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\maximum_max.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\mcclellan_oscillator.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\minimum_min.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\momentum.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\money_flow_index_mfi.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\money_flow_oscillator.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_double_expone.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_exponential_e.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_hull_hma.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_kaufmans_adap.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_mesa_adaptive.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_simple_sma.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_t3_t3.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_triangular_tm.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_triple_expon2.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_triple_expone.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_variable_vma.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_volume_weight.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_weighted_wma.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_-_zero_lag_expo.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_convergence-divergence_macd.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\moving_average_ribbon.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\net_change_display.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\n_bars_down.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\n_bars_up.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\on_balance_volume_obv.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\order_flow_cumulative_delta2.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\order_flow_volumetric_bars2.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\order_flow_vwap2.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\parabolic_sar.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\percentage_price_oscillator_pp.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\pivots.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\polarized_fractal_efficiency_p.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\price_oscillator.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\prior_day_ohlc.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\psychological_line.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\range.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\range_indicator_rind.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\rate_of_change_roc.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\regression_channel.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\relative_spread_strength_rss.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\relative_strength_index_rsi.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\relative_vigor_index.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\relative_volatility_index_rvi.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\r_squared.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\standard_deviation_stddev.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\standard_error_stderror.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\stochastics.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\stochastics_fast.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\stochastics_rsi_stochrsi.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\summation_sum.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\swing.md
+No images found in file: docs\references\Language Reference\2.0 Common\System Indicator Methods\time_series_forecast_tsf.md
+No images found in file: docs\references\Language Reference\2.0 Common\TradingHours\getprevioustradingdayend.md
+No images found in file: docs\references\Language Reference\2.0 Common\TradingHours\holidays.md
+No images found in file: docs\references\Language Reference\2.0 Common\TradingHours\partialholidays.md
+No images found in file: docs\references\Language Reference\2.0 Common\TradingHours\timezoneinfo.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\accountselector.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\atmstrategyselector.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\controls.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\instrumentselector.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\intervalselector.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\quantityupdown.md
+No images found in file: docs\references\Language Reference\3.0 Add On\1.0 NinjaTrader Controls\tifselector.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\accountitem.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\accountitemupdate.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\accountstatusupdate.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\accounts_cancelallorders.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\all.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\cancel.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\change.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\connection.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\connectoptions.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\createorder.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\denomination.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\executions.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\executionupdate.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\flatten.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\get.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\name_account.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\orders_account.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\orderupdate.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\positions.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\positions_account.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\positionupdate.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\simulationaccountreset.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\strategies_account.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Account\submit.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Alert and Debug Concepts\alertcallback.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Alert and Debug Concepts\alert_rearmalert().md
+No images found in file: docs\references\Language Reference\3.0 Add On\BarsRequest\barsrequest_mergepolicy.md
+No images found in file: docs\references\Language Reference\3.0 Add On\BarsRequest\request.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\connect.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\connectionstatusupdate.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\connections_options.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\connections_pricestatus.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\connections_status.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\connection_cancelallorders.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\disconnect.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\playbackconnection.md
+No images found in file: docs\references\Language Reference\3.0 Add On\Connection\reloadallhistoricaldata.md
+No images found in file: docs\references\Language Reference\3.0 Add On\IInstrumentProvider Interface\iinstrumentprovider_instrument.md
+No images found in file: docs\references\Language Reference\3.0 Add On\IIntervalProvider Interface\iintervalprovider_barsperiod.md
+No images found in file: docs\references\Language Reference\3.0 Add On\INTTabFactory Interface\createparentwindow.md
+No images found in file: docs\references\Language Reference\3.0 Add On\INTTabFactory Interface\createtabpage.md
+No images found in file: docs\references\Language Reference\3.0 Add On\IWorkspacePersistence Interface\iworkspacepersistence_interface.md
+No images found in file: docs\references\Language Reference\3.0 Add On\IWorkspacePersistence Interface\iworkspacepersistence_restore.md
+No images found in file: docs\references\Language Reference\3.0 Add On\IWorkspacePersistence Interface\iworkspacepersistence_save.md
+No images found in file: docs\references\Language Reference\3.0 Add On\NTTabPage Class\getheaderpart.md
+No images found in file: docs\references\Language Reference\3.0 Add On\NTTabPage Class\nttabpage_cleanup.md
+No images found in file: docs\references\Language Reference\3.0 Add On\NTTabPage Class\nttabpage_restore.md
+No images found in file: docs\references\Language Reference\3.0 Add On\NTTabPage Class\nttabpage_save.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\barindex.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\barsago.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\copydatavalues.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\displayname.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\drawingtool.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\drawnonbar.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\getpoint.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\isbrowsable.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\isediting.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\isninjascriptdrawn.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\isxpropertiesvisible.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\isypropertyvisibile.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\moveanchor.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\moveanchorx.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\moveanchory.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\price.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\time.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\updatefrompoint.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\updatexfrompoint.md
+No images found in file: docs\references\Language Reference\6.0 Drawing Tool\ChartAnchor\updateyfrompoint.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\AddLine()\arelinesconfigurable.md
+No images found in file: docs\references\Language Reference\8.0 Indicator\AddPlot()\areplotsconfigurable.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\DisposeBase\sharpdx_disposebase.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX\DisposeBase\sharpdx_disposebase_dispose.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\Brush\sharpdx_direct2d1_brush_opacity.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\Brush\sharpdx_direct2d1_brush_transform.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_addarc.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_addline.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_addlines.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_beginfigure.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_close.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_endfigure.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GeometrySink\sharpdx_direct2d1_geometrysink_setfillmode.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GradientStopCollection\sharpdx_direct2d1_gradientstopcollection.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GradientStopCollection\sharpdx_direct2d1_gradientstopcollection_colorinterpolationgamma.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GradientStopCollection\sharpdx_direct2d1_gradientstopcollection_extendmode.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\GradientStopCollection\sharpdx_direct2d1_gradientstopcollection_gradientstopcount.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\LinearGradientBrush\sharpdx_direct2d1_lineargradientbrush.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\LinearGradientBrush\sharpdx_direct2d1_lineargradientbrushproperties.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\LinearGradientBrush\sharpdx_direct2d1_lineargradientbrush_endpoint.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\LinearGradientBrush\sharpdx_direct2d1_lineargradientbrush_gradientstopcollection.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\LinearGradientBrush\sharpdx_direct2d1_lineargradientbrush_startpoint.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry_figurecount.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry_fillcontainspoint.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry_getbounds.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry_open.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry_segmentcount.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\PathGeometry\sharpdx_direct2d1_pathgeometry_strokecontainspoint.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrush.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrushproperties.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrush_center.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrush_gradientoriginoffset.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrush_gradientstopcollection.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrush_radiusx.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RadialGradientBrush\sharpdx_direct2d1_radialgradientbrush_radiusy.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\drawline.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\drawrectangle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\fillrectangle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_antialiasmode.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_drawellipse.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_drawgeometry.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_drawline.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_drawrectangle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_drawtext.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_drawtextlayout.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_fillellipse.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_fillgeometry.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_fillrectangle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\RenderTarget\sharpdx_direct2d1_rendertarget_transform.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\SolidColorBrush\sharpdx_direct2d1_solidcolorbrush_color.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyleproperties.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_dashcap.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_dashescount.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_dashoffset.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_dashstyle.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_endcap.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_getdashes.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_linejoin.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_miterlimit.md
+No images found in file: docs\references\SharpDX SDK Reference\SharpDX.Direct2D1\StrokeStyle\sharpdx_direct2d1_strokestyle_startcap.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\advanced_order_handling.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\enterlong.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\enterlonglimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\enterlongmit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\enterlongstoplimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\enterlongstopmarket.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\entershort.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\entershortlimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\entershortmit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\entershortstoplimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\entershortstopmarket.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitlong.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitlonglimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitlongmit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitlongstoplimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitlongstopmarket.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitshort.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitshortlimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitshortmit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitshortstoplimit.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\exitshortstopmarket.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\getrealtimeorder.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\managed_cancelorder.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\managed_changeorder.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\setparabolicstop.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\setprofittarget.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\setstoploss.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Managed Approach\settrailstop.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Unmanaged Approach\ignoreoverfill.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Unmanaged Approach\isunmanaged.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\Order Methods\Unmanaged Approach\submitorderunmanaged.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\averagebarsintrade.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\averageentryefficiency.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\averageexitefficiency.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\averagetimeinmarket.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\averagetotalefficiency.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\monthlystddev.md
+No images found in file: docs\references\Language Reference\14.0 Strategy\TradeCollection\TradesPerformance\sortinoratio.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_bars.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_count.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_fromindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_getbaridxbytime.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_getbaridxbyx.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_gettimebybaridx.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_panel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_tochartstring().md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartBars\chartbars_toindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\chartcontrol_barsarray.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\chartcontrol_indicators.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\gettimebyslotindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\getxbybarindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\isstayindrawmode.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\lastslotpainted.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\minvalue_chartpanel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\mousedownpoint.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartControl\presentationsource.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartingExtensions\convertfromhorizontalpixels.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartingExtensions\convertfromverticalpixels.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartingExtensions\converttohorizontalpixels.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartingExtensions\converttoverticalpixels2.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartPanel\maxvalue_chartpanel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartScale\chartscale_chartpanel.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartScale\chartscale_isvisible.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartScale\chartscale_scalejustification.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartScale\getslotindexbytime.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\ChartScale\panelindex.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\chart_zorder.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\d2dfactory.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\directwritefactory.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\dxextensions.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\forcerefresh.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\isinhittest.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\isselected.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\isvisibleonchart.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\maxvalue.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\minvalue.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\oncalculateminmax.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\onrender.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\onrendertargetchanged.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\panelui.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\rendertarget.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\setzorder.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\Instrument\exchange.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\Instrument\expiry.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\Instrument\getinstrument.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\Instrument\instrument_fullname.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\Instrument\rounddowntoticksize.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\Instrument\roundtoticksize.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\compare.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\dividends.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\exchanges.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\formatprice.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\getnextexpiry.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\instrumenttype.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\masterinstrument_currency.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\masterinstrument_description.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\masterinstrument_name.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\masterinstrument_ticksize.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\mergepolicy.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\pointvalue.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\rollovercollection.md
+No images found in file: docs\references\Language Reference\2.0 Common\Instruments\MasterInstrument\splits.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\DXExtensions\dxextensions_todxbrush.md
+No images found in file: docs\references\Language Reference\2.0 Common\Charts\Rendering\DXExtensions\dxextensions_tovector2.md
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_10.png to attachments\code_snippets\ns_editor_10.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_11.png to attachments\code_snippets\ns_editor_11.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ninjatrader_2020-12-03_10-03-00.png to attachments\ns_editor_components\ninjatrader_2020-12-03_10-03-00.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_17.png to attachments\ns_explorer\ns_editor_17.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_12.png to attachments\ns_explorer\ns_editor_12.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_16.png to attachments\ns_explorer\ns_editor_16.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_18.png to attachments\ns_explorer\ns_editor_18.png
+Downloaded: https://ninjatrader.com/support/helpguides/nt8/ns_editor_19.png to attachments\ns_explorer\ns_editor_19.png
