@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6864d184fb9708b6c19d0e316a79654f1a5bc0b8cd9eed067c2c148d9bf430a7",
+    "_type": "desktopSdkDoc",
+    "title": "ninjascript",
+    "pathName": "ninjascript",
+    "parent": null,
+    "order": 0,
+    "status": "ready",
+    "section": "references",
+    "markdown": "## NinjaScript Overview\n\nNinjaScript is a **C#** based language that allows unlimited extensibility to NinjaTrader.\n\n{% table %}\n\n* Category\n* Link\n\n---\n\n* Distribution\n* [Distribution](distribution)\n\n---\n\n* Editor\n* [Editor](ninjascript_editor_overview.md)\n\n---\n\n* Educational Resources\n* [Educational Resources](educational_resources)\n\n---\n\n* Language Reference\n* [language_reference](docs/references/language_reference.md)\n\n---\n\n{% /table %}"
+  }
+]

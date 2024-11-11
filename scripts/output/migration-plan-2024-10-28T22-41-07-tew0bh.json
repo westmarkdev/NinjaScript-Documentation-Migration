@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "1e2135d1b50f14d3d3d6cbe24a4294bcb9e4d5d3c28eb1ce4980ff2a17c5d3b6",
+    "_type": "desktopSdkDoc",
+    "title": "NinjaTrader Controls",
+    "pathName": "controls",
+    "parent": "add_on",
+    "order": 0,
+    "status": "ready",
+    "section": "references",
+    "markdown": "The following section contains controls that are native NinjaTrader controls. To fully integrate your Add On within NinjaTrader it is recommended to use these controls as opposed to building your own when possible.\n\n{% callout type=\"note\" %}\n\nNote:  For cleaning up these resources, please see the [NTTabPage.Cleanup()](https://ninjatrader.com/support/helpguides/nt8/nttabpage_cleanup.htm) method\n\n{% /callout %}\n\n{% table %}\n\n* Component\n\n* Description\n\n---\n\n* [AccountSelector](https://ninjatrader.com/support/helpguides/nt8/accountselector.htm)\n\n* AccountSelector can be used as a UI element users can interact with for selecting accounts.\n\n---\n\n* [AtmStrategySelector](https://ninjatrader.com/support/helpguides/nt8/atmstrategyselector.htm)\n\n* AtmStrategySelector is a UI element users can interact with for selecting ATM Strategies.\n\n---\n\n* [InstrumentSelector](https://ninjatrader.com/support/helpguides/nt8/instrumentselector.htm)\n\n* InstrumentSelector is a UI element users can interact with for selecting instruments. This can be used with instrument linking between windows.\n\n---\n\n* [IntervalSelector](https://ninjatrader.com/support/helpguides/nt8/intervalselector.htm)\n\n* IntervalSelector is a UI element users can interact with for selecting intervals. This can be used with interval linking between windows.\n\n---\n\n* [TifSelector](https://ninjatrader.com/support/helpguides/nt8/tifselector.htm)\n\n* TifSelector can be used as a UI element users can interact with for selecting TIF.\n\n---\n\n* [QuantityUpDown](https://ninjatrader.com/support/helpguides/nt8/quantityupdown.htm)\n\n* QuantityUpDown can be used as a UI element users can interact with for selecting quantity.\n\n---\n\n{% /table %}"
+  }
+]
